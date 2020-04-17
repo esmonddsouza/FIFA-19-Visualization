@@ -1,4 +1,4 @@
-# FIFA-19-Visualization
+﻿# FIFA-19-Visualization
 
 A novel visualization of the FIFA 19 players list using Salesforce Eisntein Analytics
 
@@ -25,3 +25,6 @@ Body Type: Lean
 Position: RF
 
 This dataset was selected from the list of datasets available on Kaggle. To visualize the data into information and knowledge I leveraged the analytics platform provided by Salesforce name as ‘Einstein Analytics’
+
+
+![Screenshot](Assignment_3_Main_Dashboard.png)
