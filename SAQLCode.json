@@ -20,7 +20,9 @@
                                 "name": "number_1",
                                 "row": 2,
                                 "rowspan": 1,
-                                "widgetStyle": {}
+                                "widgetStyle": {
+                                    "borderEdges": []
+                                }
                             },
                             {
                                 "colspan": 2,
@@ -28,7 +30,9 @@
                                 "name": "text_1",
                                 "row": 1,
                                 "rowspan": 1,
-                                "widgetStyle": {}
+                                "widgetStyle": {
+                                    "borderEdges": []
+                                }
                             },
                             {
                                 "colspan": 12,
@@ -36,7 +40,9 @@
                                 "name": "container_2",
                                 "row": 1,
                                 "rowspan": 2,
-                                "widgetStyle": {}
+                                "widgetStyle": {
+                                    "borderEdges": []
+                                }
                             },
                             {
                                 "colspan": 2,
@@ -92,7 +98,9 @@
                                 "name": "pillbox_1",
                                 "row": 1,
                                 "rowspan": 2,
-                                "widgetStyle": {}
+                                "widgetStyle": {
+                                    "borderEdges": []
+                                }
                             },
                             {
                                 "colspan": 8,
@@ -100,7 +108,9 @@
                                 "name": "chart_1",
                                 "row": 9,
                                 "rowspan": 10,
-                                "widgetStyle": {}
+                                "widgetStyle": {
+                                    "borderEdges": []
+                                }
                             },
                             {
                                 "colspan": 6,
@@ -108,7 +118,9 @@
                                 "name": "chart_3",
                                 "row": 27,
                                 "rowspan": 7,
-                                "widgetStyle": {}
+                                "widgetStyle": {
+                                    "borderEdges": []
+                                }
                             },
                             {
                                 "colspan": 5,
@@ -116,7 +128,9 @@
                                 "name": "chart_7",
                                 "row": 3,
                                 "rowspan": 5,
-                                "widgetStyle": {}
+                                "widgetStyle": {
+                                    "borderEdges": []
+                                }
                             },
                             {
                                 "colspan": 3,
@@ -124,7 +138,9 @@
                                 "name": "chart_9",
                                 "row": 3,
                                 "rowspan": 5,
-                                "widgetStyle": {}
+                                "widgetStyle": {
+                                    "borderEdges": []
+                                }
                             },
                             {
                                 "colspan": 4,
@@ -132,7 +148,9 @@
                                 "name": "chart_4",
                                 "row": 3,
                                 "rowspan": 9,
-                                "widgetStyle": {}
+                                "widgetStyle": {
+                                    "borderEdges": []
+                                }
                             },
                             {
                                 "colspan": 4,
@@ -140,7 +158,9 @@
                                 "name": "chart_5",
                                 "row": 12,
                                 "rowspan": 8,
-                                "widgetStyle": {}
+                                "widgetStyle": {
+                                    "borderEdges": []
+                                }
                             },
                             {
                                 "colspan": 8,
@@ -148,7 +168,9 @@
                                 "name": "container_4",
                                 "row": 8,
                                 "rowspan": 12,
-                                "widgetStyle": {}
+                                "widgetStyle": {
+                                    "borderEdges": []
+                                }
                             },
                             {
                                 "colspan": 7,
@@ -156,7 +178,9 @@
                                 "name": "chart_6",
                                 "row": 20,
                                 "rowspan": 7,
-                                "widgetStyle": {}
+                                "widgetStyle": {
+                                    "borderEdges": []
+                                }
                             },
                             {
                                 "colspan": 5,
@@ -164,7 +188,9 @@
                                 "name": "chart_13",
                                 "row": 20,
                                 "rowspan": 7,
-                                "widgetStyle": {}
+                                "widgetStyle": {
+                                    "borderEdges": []
+                                }
                             },
                             {
                                 "colspan": 8,
@@ -172,7 +198,9 @@
                                 "name": "pillbox_3",
                                 "row": 19,
                                 "rowspan": 1,
-                                "widgetStyle": {}
+                                "widgetStyle": {
+                                    "borderEdges": []
+                                }
                             },
                             {
                                 "colspan": 6,
@@ -180,7 +208,9 @@
                                 "name": "table_1",
                                 "row": 27,
                                 "rowspan": 7,
-                                "widgetStyle": {}
+                                "widgetStyle": {
+                                    "borderEdges": []
+                                }
                             },
                             {
                                 "colspan": 2,
@@ -199,20 +229,24 @@
                                 }
                             },
                             {
-                                "colspan": 4,
-                                "column": 2,
+                                "colspan": 6,
+                                "column": 0,
                                 "name": "text_2",
                                 "row": 0,
                                 "rowspan": 1,
-                                "widgetStyle": {}
+                                "widgetStyle": {
+                                    "borderEdges": []
+                                }
                             },
                             {
                                 "colspan": 2,
-                                "column": 6,
+                                "column": 10,
                                 "name": "link_2",
                                 "row": 0,
                                 "rowspan": 1,
-                                "widgetStyle": {}
+                                "widgetStyle": {
+                                    "borderEdges": []
+                                }
                             },
                             {
                                 "colspan": 2,
@@ -220,15 +254,19 @@
                                 "name": "link_3",
                                 "row": 0,
                                 "rowspan": 1,
-                                "widgetStyle": {}
+                                "widgetStyle": {
+                                    "borderEdges": []
+                                }
                             },
                             {
                                 "colspan": 2,
-                                "column": 10,
+                                "column": 6,
                                 "name": "link_1",
                                 "row": 0,
                                 "rowspan": 1,
-                                "widgetStyle": {}
+                                "widgetStyle": {
+                                    "borderEdges": []
+                                }
                             },
                             {
                                 "colspan": 8,
@@ -236,15 +274,9 @@
                                 "name": "pillbox_5",
                                 "row": 8,
                                 "rowspan": 1,
-                                "widgetStyle": {}
-                            },
-                            {
-                                "colspan": 2,
-                                "column": 0,
-                                "name": "image_1",
-                                "row": 0,
-                                "rowspan": 1,
-                                "widgetStyle": {}
+                                "widgetStyle": {
+                                    "borderEdges": []
+                                }
                             }
                         ]
                     }
@@ -366,8 +398,7 @@
                         "map": "{{column(static_2.selection, [\"value\"]).asObject()}}",
                         "applyConditionalFormatting": true
                     },
-                    "type": "chart",
-                    "options": {}
+                    "type": "chart"
                 }
             },
             "player_by_country_an_2": {
@@ -511,8 +542,7 @@
                             "bounding2": ""
                         }
                     },
-                    "type": "chart",
-                    "options": {}
+                    "type": "chart"
                 }
             },
             "player_rating_countr_1": {
@@ -602,8 +632,7 @@
                         "applyConditionalFormatting": true,
                         "showMax": false
                     },
-                    "type": "chart",
-                    "options": {}
+                    "type": "chart"
                 }
             },
             "Preferred_Foot_1": {
@@ -636,9 +665,7 @@
                 "start": [],
                 "type": "aggregateflex",
                 "useGlobal": true,
-                "visualizationParameters": {
-                    "options": {}
-                }
+                "visualizationParameters": {}
             },
             "age_vs_stamina_1": {
                 "broadcastFacet": true,
@@ -780,8 +807,7 @@
                         },
                         "applyConditionalFormatting": true
                     },
-                    "type": "chart",
-                    "options": {}
+                    "type": "chart"
                 }
             },
             "Age_1": {
@@ -811,9 +837,7 @@
                 "start": [],
                 "type": "aggregateflex",
                 "useGlobal": true,
-                "visualizationParameters": {
-                    "options": {}
-                }
+                "visualizationParameters": {}
             },
             "Avg_height_1": {
                 "broadcastFacet": true,
@@ -936,8 +960,7 @@
                             }
                         }
                     },
-                    "type": "chart",
-                    "options": {}
+                    "type": "chart"
                 }
             },
             "Position_1": {
@@ -970,9 +993,7 @@
                 "start": [],
                 "type": "aggregateflex",
                 "useGlobal": true,
-                "visualizationParameters": {
-                    "options": {}
-                }
+                "visualizationParameters": {}
             },
             "all_1": {
                 "broadcastFacet": true,
@@ -1106,8 +1127,7 @@
                         },
                         "applyConditionalFormatting": true
                     },
-                    "type": "chart",
-                    "options": {}
+                    "type": "chart"
                 }
             },
             "player_by_weight_1": {
@@ -1237,8 +1257,7 @@
                         },
                         "applyConditionalFormatting": true
                     },
-                    "type": "chart",
-                    "options": {}
+                    "type": "chart"
                 }
             },
             "all_3": {
@@ -1382,8 +1401,7 @@
                         },
                         "applyConditionalFormatting": true
                     },
-                    "type": "chart",
-                    "options": {}
+                    "type": "chart"
                 }
             },
             "all_2": {
@@ -1527,8 +1545,7 @@
                         },
                         "applyConditionalFormatting": true
                     },
-                    "type": "chart",
-                    "options": {}
+                    "type": "chart"
                 }
             },
             "Nationality_2": {
@@ -1638,8 +1655,7 @@
                         "map": "World Countries",
                         "applyConditionalFormatting": true
                     },
-                    "type": "chart",
-                    "options": {}
+                    "type": "chart"
                 }
             },
             "Nationality_1": {
@@ -1672,9 +1688,7 @@
                 "start": [],
                 "type": "aggregateflex",
                 "useGlobal": true,
-                "visualizationParameters": {
-                    "options": {}
-                }
+                "visualizationParameters": {}
             },
             "players_by_country_a_1": {
                 "broadcastFacet": true,
@@ -1901,8 +1915,7 @@
                         },
                         "applyConditionalFormatting": true
                     },
-                    "type": "chart",
-                    "options": {}
+                    "type": "chart"
                 }
             },
             "avg_wage_1": {
@@ -1987,8 +2000,7 @@
                         "theme": "wave",
                         "applyConditionalFormatting": true
                     },
-                    "type": "chart",
-                    "options": {}
+                    "type": "chart"
                 }
             },
             "player_reputation_vs_1": {
@@ -2071,8 +2083,7 @@
                             "subtitleLabel": ""
                         }
                     },
-                    "type": "chart",
-                    "options": {}
+                    "type": "chart"
                 }
             },
             "age_vs_stamina_2": {
@@ -2201,8 +2212,7 @@
                         },
                         "applyConditionalFormatting": true
                     },
-                    "type": "chart",
-                    "options": {}
+                    "type": "chart"
                 }
             },
             "static_3": {
@@ -2261,10 +2271,7 @@
                         "HighColor": "#00a8ba",
                         "LowColor": "#97e0e8"
                     }
-                ],
-                "numbers": [],
-                "strings": [],
-                "groups": []
+                ]
             },
             "static_2": {
                 "broadcastFacet": true,
@@ -2309,10 +2316,7 @@
                         "Display": "Australasia",
                         "value": "Australasia"
                     }
-                ],
-                "numbers": [],
-                "strings": [],
-                "groups": []
+                ]
             },
             "Player_by_body_type_1": {
                 "broadcastFacet": true,
@@ -2403,8 +2407,7 @@
                         "theme": "wave",
                         "applyConditionalFormatting": true
                     },
-                    "type": "chart",
-                    "options": {}
+                    "type": "chart"
                 }
             },
             "player_positions_1": {
@@ -2494,8 +2497,7 @@
                         "theme": "wave",
                         "applyConditionalFormatting": true
                     },
-                    "type": "chart",
-                    "options": {}
+                    "type": "chart"
                 }
             },
             "Club_1": {
@@ -2528,9 +2530,7 @@
                 "start": [],
                 "type": "aggregateflex",
                 "useGlobal": true,
-                "visualizationParameters": {
-                    "options": {}
-                }
+                "visualizationParameters": {}
             },
             "avg_vision_1": {
                 "broadcastFacet": true,
@@ -2614,8 +2614,7 @@
                         "theme": "wave",
                         "applyConditionalFormatting": true
                     },
-                    "type": "chart",
-                    "options": {}
+                    "type": "chart"
                 }
             }
         },
@@ -2627,6 +2626,141 @@
             "borderWidth": 1
         },
         "widgets": {
+            "listselector_3": {
+                "parameters": {
+                    "compact": false,
+                    "displayMode": "filter",
+                    "exploreLink": false,
+                    "filterStyle": {
+                        "titleColor": "#54698D",
+                        "valueColor": "#16325C"
+                    },
+                    "instant": true,
+                    "measureField": "count",
+                    "showActionMenu": true,
+                    "step": "Position_1",
+                    "title": "Position"
+                },
+                "type": "listselector"
+            },
+            "listselector_2": {
+                "parameters": {
+                    "compact": false,
+                    "displayMode": "filter",
+                    "exploreLink": false,
+                    "filterStyle": {
+                        "titleColor": "#54698D",
+                        "valueColor": "#16325C"
+                    },
+                    "instant": true,
+                    "measureField": "count",
+                    "showActionMenu": true,
+                    "step": "Club_1",
+                    "title": "Club"
+                },
+                "type": "listselector"
+            },
+            "text_1": {
+                "parameters": {
+                    "fontSize": 24,
+                    "showActionMenu": true,
+                    "text": "Total Players",
+                    "textAlignment": "left",
+                    "textColor": "#091A3E"
+                },
+                "type": "text"
+            },
+            "link_3": {
+                "parameters": {
+                    "destinationLink": {
+                        "url": "https://vimeo.com/409498420"
+                    },
+                    "destinationType": "url",
+                    "fontSize": 16,
+                    "includeState": false,
+                    "text": "Video Link",
+                    "textAlignment": "center",
+                    "textColor": "#0070D2"
+                },
+                "type": "link"
+            },
+            "link_1": {
+                "parameters": {
+                    "destinationLink": {
+                        "url": "https://www.kaggle.com/karangadiya/fifa19"
+                    },
+                    "destinationType": "url",
+                    "fontSize": 16,
+                    "includeState": false,
+                    "text": "Dataset Link",
+                    "textAlignment": "center",
+                    "textColor": "#0070D2"
+                },
+                "type": "link"
+            },
+            "link_2": {
+                "parameters": {
+                    "destinationLink": {
+                        "url": "https://github.com/esmonddsouza/FIFA-19-Visualization"
+                    },
+                    "destinationType": "url",
+                    "fontSize": 16,
+                    "includeState": false,
+                    "text": "Github Link",
+                    "textAlignment": "center",
+                    "textColor": "#0070D2"
+                },
+                "type": "link"
+            },
+            "table_1": {
+                "parameters": {
+                    "borderColor": "#98c6f5",
+                    "borderWidth": 1,
+                    "cell": {
+                        "backgroundColor": "#ffffff",
+                        "fontColor": "#16325c",
+                        "fontSize": 12
+                    },
+                    "columnProperties": {
+                        "Overall": {
+                            "parameters": {
+                                "alignment": "right"
+                            },
+                            "type": "text"
+                        },
+                        "Release_Clause": {
+                            "parameters": {
+                                "alignment": "right"
+                            },
+                            "type": "text"
+                        },
+                        "Name": {
+                            "parameters": {
+                                "alignment": "left"
+                            },
+                            "type": "text"
+                        }
+                    },
+                    "columns": [],
+                    "customBulkActions": [],
+                    "exploreLink": true,
+                    "header": {
+                        "backgroundColor": "#1589ee",
+                        "fontColor": "#ffffff",
+                        "fontSize": 12
+                    },
+                    "innerMajorBorderColor": "#3290ed",
+                    "innerMinorBorderColor": "#98c6f5",
+                    "mode": "fittocontainer",
+                    "numberOfLines": 1,
+                    "showActionMenu": false,
+                    "showRowIndexColumn": false,
+                    "step": "top_players_1",
+                    "totals": true,
+                    "verticalPadding": 8
+                },
+                "type": "table"
+            },
             "container_2": {
                 "parameters": {
                     "alignmentX": "left",
@@ -2634,6 +2768,22 @@
                     "fit": "original"
                 },
                 "type": "container"
+            },
+            "number_1": {
+                "parameters": {
+                    "compact": false,
+                    "exploreLink": true,
+                    "measureField": "count",
+                    "numberColor": "#091A3E",
+                    "numberSize": 32,
+                    "showActionMenu": true,
+                    "step": "all_1",
+                    "textAlignment": "left",
+                    "title": "",
+                    "titleColor": "#091A3E",
+                    "titleSize": 16
+                },
+                "type": "number"
             },
             "chart_9": {
                 "parameters": {
@@ -2700,6 +2850,28 @@
                 },
                 "type": "chart"
             },
+            "pillbox_1": {
+                "parameters": {
+                    "compact": false,
+                    "displayTemplate": "[Preferred_Foot] Legged",
+                    "exploreLink": false,
+                    "fontSize": 14,
+                    "measureField": "count",
+                    "selectedTab": {
+                        "backgroundColor": "#0070D2",
+                        "borderColor": "#C6D3E1",
+                        "borderEdges": [
+                            "all"
+                        ],
+                        "borderWidth": 1,
+                        "textColor": "#FFFFFF"
+                    },
+                    "showActionMenu": true,
+                    "step": "Preferred_Foot_1",
+                    "textColor": "#0070D2"
+                },
+                "type": "pillbox"
+            },
             "rangeselector_1": {
                 "parameters": {
                     "displayMode": "filter",
@@ -2721,6 +2893,26 @@
                     "fit": "original"
                 },
                 "type": "container"
+            },
+            "pillbox_3": {
+                "parameters": {
+                    "compact": false,
+                    "exploreLink": false,
+                    "fontSize": 14,
+                    "selectedTab": {
+                        "backgroundColor": "#0070D2",
+                        "borderColor": "#C6D3E1",
+                        "borderEdges": [
+                            "all"
+                        ],
+                        "borderWidth": 1,
+                        "textColor": "#FFFFFF"
+                    },
+                    "showActionMenu": true,
+                    "step": "static_2",
+                    "textColor": "#0070D2"
+                },
+                "type": "pillbox"
             },
             "chart_6": {
                 "parameters": {
@@ -2848,11 +3040,49 @@
                 "parameters": {
                     "fontSize": 24,
                     "showActionMenu": true,
-                    "text": "Data Visualization Assignment 3",
+                    "text": "FIFA 19 Visualization - Esmond Dominic Dsouza",
                     "textAlignment": "left",
                     "textColor": "#091A3E"
                 },
                 "type": "text"
+            },
+            "pillbox_5": {
+                "parameters": {
+                    "compact": false,
+                    "exploreLink": false,
+                    "fontSize": 14,
+                    "selectedTab": {
+                        "backgroundColor": "#0070D2",
+                        "borderColor": "#C6D3E1",
+                        "borderEdges": [
+                            "all"
+                        ],
+                        "borderWidth": 1,
+                        "textColor": "#FFFFFF"
+                    },
+                    "showActionMenu": true,
+                    "step": "static_3",
+                    "textColor": "#0070D2"
+                },
+                "type": "pillbox"
+            },
+            "listselector_1": {
+                "parameters": {
+                    "compact": false,
+                    "displayMode": "filter",
+                    "displayTemplate": "[Nationality]",
+                    "exploreLink": false,
+                    "filterStyle": {
+                        "titleColor": "#54698D",
+                        "valueColor": "#16325C"
+                    },
+                    "instant": true,
+                    "measureField": "count",
+                    "showActionMenu": true,
+                    "step": "Nationality_1",
+                    "title": "Nationality"
+                },
+                "type": "listselector"
             },
             "chart_7": {
                 "parameters": {
@@ -2945,6 +3175,98 @@
                             }
                         }
                     }
+                },
+                "type": "chart"
+            },
+            "chart_13": {
+                "parameters": {
+                    "autoFitMode": "keepLabels",
+                    "showValues": true,
+                    "legend": {
+                        "descOrder": false,
+                        "showHeader": false,
+                        "show": true,
+                        "customSize": "auto",
+                        "position": "bottom-center",
+                        "inside": false
+                    },
+                    "showMeasureTitle": true,
+                    "tooltip": {
+                        "showBinLabel": true,
+                        "measures": [
+                            "count",
+                            "avg_Age",
+                            "avg_Stamina"
+                        ],
+                        "showNullValues": true,
+                        "showPercentage": true,
+                        "showDimensions": true,
+                        "showMeasures": true,
+                        "customizeTooltip": true,
+                        "dimensions": [
+                            "Club"
+                        ]
+                    },
+                    "visualizationType": "pyramid",
+                    "exploreLink": true,
+                    "title": {
+                        "fontSize": 14,
+                        "subtitleFontSize": 11,
+                        "label": "",
+                        "align": "left",
+                        "subtitleLabel": ""
+                    },
+                    "trellis": {
+                        "flipLabels": false,
+                        "showGridLines": true,
+                        "size": [
+                            100,
+                            100
+                        ],
+                        "enable": false,
+                        "type": "x",
+                        "chartsPerLine": 4
+                    },
+                    "showMeasure": true,
+                    "columnMap": {
+                        "measureAxis2": [
+                            "avg_Stamina"
+                        ],
+                        "measureAxis1": [
+                            "avg_Age"
+                        ],
+                        "trellis": [],
+                        "dimensionAxis": [
+                            "Club"
+                        ],
+                        "plots": [
+                            "count"
+                        ]
+                    },
+                    "showActionMenu": true,
+                    "measureAxis2": {
+                        "sqrtScale": false,
+                        "title": "",
+                        "customDomain": {
+                            "showDomain": false
+                        }
+                    },
+                    "measureAxis1": {
+                        "sqrtScale": false,
+                        "title": "",
+                        "customDomain": {
+                            "showDomain": false
+                        }
+                    },
+                    "theme": "wave",
+                    "rightColor": "#e16032",
+                    "step": "age_vs_stamina_1",
+                    "leftColor": "#52b7d8",
+                    "dimensionAxis": {
+                        "customSize": "auto",
+                        "showAxis": false
+                    },
+                    "applyConditionalFormatting": true
                 },
                 "type": "chart"
             },
@@ -3184,340 +3506,6 @@
                         "bounding1": "",
                         "bounding2": ""
                     }
-                },
-                "type": "chart"
-            },
-            "listselector_3": {
-                "parameters": {
-                    "compact": false,
-                    "displayMode": "filter",
-                    "exploreLink": false,
-                    "filterStyle": {
-                        "titleColor": "#54698D",
-                        "valueColor": "#16325C"
-                    },
-                    "instant": true,
-                    "measureField": "count",
-                    "showActionMenu": true,
-                    "step": "Position_1",
-                    "title": "Position"
-                },
-                "type": "listselector"
-            },
-            "listselector_2": {
-                "parameters": {
-                    "compact": false,
-                    "displayMode": "filter",
-                    "exploreLink": false,
-                    "filterStyle": {
-                        "titleColor": "#54698D",
-                        "valueColor": "#16325C"
-                    },
-                    "instant": true,
-                    "measureField": "count",
-                    "showActionMenu": true,
-                    "step": "Club_1",
-                    "title": "Club"
-                },
-                "type": "listselector"
-            },
-            "text_1": {
-                "parameters": {
-                    "fontSize": 24,
-                    "showActionMenu": true,
-                    "text": "Total Players",
-                    "textAlignment": "left",
-                    "textColor": "#091A3E"
-                },
-                "type": "text"
-            },
-            "link_3": {
-                "parameters": {
-                    "destinationType": "lens",
-                    "fontSize": 16,
-                    "includeState": false,
-                    "text": "Video Link",
-                    "textAlignment": "center",
-                    "textColor": "#0070D2"
-                },
-                "type": "link"
-            },
-            "link_1": {
-                "parameters": {
-                    "destinationLink": {
-                        "url": "https://www.kaggle.com/karangadiya/fifa19"
-                    },
-                    "destinationType": "url",
-                    "fontSize": 16,
-                    "includeState": false,
-                    "text": "Dataset Link",
-                    "textAlignment": "center",
-                    "textColor": "#0070D2"
-                },
-                "type": "link"
-            },
-            "link_2": {
-                "parameters": {
-                    "destinationLink": {
-                        "url": "https://github.com/esmonddsouza/FIFA-19-Visualization"
-                    },
-                    "destinationType": "url",
-                    "fontSize": 16,
-                    "includeState": false,
-                    "text": "Github Link",
-                    "textAlignment": "center",
-                    "textColor": "#0070D2"
-                },
-                "type": "link"
-            },
-            "table_1": {
-                "parameters": {
-                    "borderColor": "#98c6f5",
-                    "borderWidth": 1,
-                    "cell": {
-                        "backgroundColor": "#ffffff",
-                        "fontColor": "#16325c",
-                        "fontSize": 12
-                    },
-                    "columnProperties": {
-                        "Overall": {
-                            "parameters": {
-                                "alignment": "right"
-                            },
-                            "type": "text"
-                        },
-                        "Release_Clause": {
-                            "parameters": {
-                                "alignment": "right"
-                            },
-                            "type": "text"
-                        },
-                        "Name": {
-                            "parameters": {
-                                "alignment": "left"
-                            },
-                            "type": "text"
-                        }
-                    },
-                    "columns": [],
-                    "customBulkActions": [],
-                    "exploreLink": true,
-                    "header": {
-                        "backgroundColor": "#1589ee",
-                        "fontColor": "#ffffff",
-                        "fontSize": 12
-                    },
-                    "innerMajorBorderColor": "#3290ed",
-                    "innerMinorBorderColor": "#98c6f5",
-                    "mode": "fittocontainer",
-                    "numberOfLines": 1,
-                    "showActionMenu": false,
-                    "showRowIndexColumn": false,
-                    "step": "top_players_1",
-                    "totals": true,
-                    "verticalPadding": 8,
-                    "evenRowColor": null,
-                    "oddRowColor": null
-                },
-                "type": "table"
-            },
-            "number_1": {
-                "parameters": {
-                    "compact": false,
-                    "exploreLink": true,
-                    "measureField": "count",
-                    "numberColor": "#091A3E",
-                    "numberSize": 32,
-                    "showActionMenu": true,
-                    "step": "all_1",
-                    "textAlignment": "left",
-                    "title": "",
-                    "titleColor": "#091A3E",
-                    "titleSize": 16
-                },
-                "type": "number"
-            },
-            "pillbox_1": {
-                "parameters": {
-                    "compact": false,
-                    "displayTemplate": "[Preferred_Foot] Legged",
-                    "exploreLink": false,
-                    "fontSize": 14,
-                    "measureField": "count",
-                    "selectedTab": {
-                        "backgroundColor": "#0070D2",
-                        "borderColor": "#C6D3E1",
-                        "borderEdges": [
-                            "all"
-                        ],
-                        "borderWidth": 1,
-                        "textColor": "#FFFFFF"
-                    },
-                    "showActionMenu": true,
-                    "step": "Preferred_Foot_1",
-                    "textColor": "#0070D2"
-                },
-                "type": "pillbox"
-            },
-            "pillbox_3": {
-                "parameters": {
-                    "compact": false,
-                    "exploreLink": false,
-                    "fontSize": 14,
-                    "selectedTab": {
-                        "backgroundColor": "#0070D2",
-                        "borderColor": "#C6D3E1",
-                        "borderEdges": [
-                            "all"
-                        ],
-                        "borderWidth": 1,
-                        "textColor": "#FFFFFF"
-                    },
-                    "showActionMenu": true,
-                    "step": "static_2",
-                    "textColor": "#0070D2"
-                },
-                "type": "pillbox"
-            },
-            "image_1": {
-                "parameters": {
-                    "alignmentX": "center",
-                    "alignmentY": "top",
-                    "fit": "stretch",
-                    "image": {
-                        "name": "fifaLogopng",
-                        "namespace": ""
-                    }
-                },
-                "type": "image"
-            },
-            "pillbox_5": {
-                "parameters": {
-                    "compact": false,
-                    "exploreLink": false,
-                    "fontSize": 14,
-                    "selectedTab": {
-                        "backgroundColor": "#0070D2",
-                        "borderColor": "#C6D3E1",
-                        "borderEdges": [
-                            "all"
-                        ],
-                        "borderWidth": 1,
-                        "textColor": "#FFFFFF"
-                    },
-                    "showActionMenu": true,
-                    "step": "static_3",
-                    "textColor": "#0070D2"
-                },
-                "type": "pillbox"
-            },
-            "listselector_1": {
-                "parameters": {
-                    "compact": false,
-                    "displayMode": "filter",
-                    "displayTemplate": "[Nationality]",
-                    "exploreLink": false,
-                    "filterStyle": {
-                        "titleColor": "#54698D",
-                        "valueColor": "#16325C"
-                    },
-                    "instant": true,
-                    "measureField": "count",
-                    "showActionMenu": true,
-                    "step": "Nationality_1",
-                    "title": "Nationality"
-                },
-                "type": "listselector"
-            },
-            "chart_13": {
-                "parameters": {
-                    "autoFitMode": "keepLabels",
-                    "showValues": true,
-                    "legend": {
-                        "descOrder": false,
-                        "showHeader": false,
-                        "show": true,
-                        "customSize": "auto",
-                        "position": "bottom-center",
-                        "inside": false
-                    },
-                    "showMeasureTitle": true,
-                    "tooltip": {
-                        "showBinLabel": true,
-                        "measures": [
-                            "count",
-                            "avg_Age",
-                            "avg_Stamina"
-                        ],
-                        "showNullValues": true,
-                        "showPercentage": true,
-                        "showDimensions": true,
-                        "showMeasures": true,
-                        "customizeTooltip": true,
-                        "dimensions": [
-                            "Club"
-                        ]
-                    },
-                    "visualizationType": "pyramid",
-                    "exploreLink": true,
-                    "title": {
-                        "fontSize": 14,
-                        "subtitleFontSize": 11,
-                        "label": "",
-                        "align": "left",
-                        "subtitleLabel": ""
-                    },
-                    "trellis": {
-                        "flipLabels": false,
-                        "showGridLines": true,
-                        "size": [
-                            100,
-                            100
-                        ],
-                        "enable": false,
-                        "type": "x",
-                        "chartsPerLine": 4
-                    },
-                    "showMeasure": true,
-                    "columnMap": {
-                        "measureAxis2": [
-                            "avg_Stamina"
-                        ],
-                        "measureAxis1": [
-                            "avg_Age"
-                        ],
-                        "trellis": [],
-                        "dimensionAxis": [
-                            "Club"
-                        ],
-                        "plots": [
-                            "count"
-                        ]
-                    },
-                    "showActionMenu": true,
-                    "measureAxis2": {
-                        "sqrtScale": false,
-                        "title": "",
-                        "customDomain": {
-                            "showDomain": false
-                        }
-                    },
-                    "measureAxis1": {
-                        "sqrtScale": false,
-                        "title": "",
-                        "customDomain": {
-                            "showDomain": false
-                        }
-                    },
-                    "theme": "wave",
-                    "rightColor": "#e16032",
-                    "step": "age_vs_stamina_1",
-                    "leftColor": "#52b7d8",
-                    "dimensionAxis": {
-                        "customSize": "auto",
-                        "showAxis": false
-                    },
-                    "applyConditionalFormatting": true
                 },
                 "type": "chart"
             }
