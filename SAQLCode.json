@@ -15,74 +15,34 @@
                         "navigationHidden": false,
                         "widgets": [
                             {
-                                "colspan": 3,
+                                "colspan": 2,
                                 "column": 0,
-                                "name": "container_1",
-                                "row": 0,
-                                "rowspan": 8,
+                                "name": "number_1",
+                                "row": 2,
+                                "rowspan": 1,
                                 "widgetStyle": {}
                             },
                             {
                                 "colspan": 2,
                                 "column": 0,
-                                "name": "number_1",
+                                "name": "text_1",
                                 "row": 1,
                                 "rowspan": 1,
                                 "widgetStyle": {}
                             },
                             {
-                                "colspan": 3,
+                                "colspan": 12,
                                 "column": 0,
-                                "name": "text_1",
-                                "row": 0,
-                                "rowspan": 1,
-                                "widgetStyle": {}
-                            },
-                            {
-                                "colspan": 2,
-                                "column": 0,
-                                "name": "number_2",
-                                "row": 4,
-                                "rowspan": 1,
-                                "widgetStyle": {}
-                            },
-                            {
-                                "colspan": 2,
-                                "column": 0,
-                                "name": "number_3",
-                                "row": 7,
-                                "rowspan": 1,
-                                "widgetStyle": {}
-                            },
-                            {
-                                "colspan": 3,
-                                "column": 0,
-                                "name": "text_2",
-                                "row": 3,
-                                "rowspan": 1,
-                                "widgetStyle": {}
-                            },
-                            {
-                                "colspan": 2,
-                                "column": 0,
-                                "name": "text_3",
-                                "row": 6,
-                                "rowspan": 1,
-                                "widgetStyle": {}
-                            },
-                            {
-                                "colspan": 9,
-                                "column": 3,
                                 "name": "container_2",
-                                "row": 0,
+                                "row": 1,
                                 "rowspan": 2,
                                 "widgetStyle": {}
                             },
                             {
                                 "colspan": 2,
-                                "column": 7,
+                                "column": 8,
                                 "name": "rangeselector_1",
-                                "row": 0,
+                                "row": 1,
                                 "rowspan": 2,
                                 "widgetStyle": {
                                     "backgroundColor": "#FFFFFF",
@@ -96,9 +56,9 @@
                             },
                             {
                                 "colspan": 2,
-                                "column": 3,
+                                "column": 2,
                                 "name": "listselector_1",
-                                "row": 0,
+                                "row": 1,
                                 "rowspan": 2,
                                 "widgetStyle": {
                                     "backgroundColor": "#FFFFFF",
@@ -112,9 +72,9 @@
                             },
                             {
                                 "colspan": 2,
-                                "column": 5,
+                                "column": 4,
                                 "name": "listselector_2",
-                                "row": 0,
+                                "row": 1,
                                 "rowspan": 2,
                                 "widgetStyle": {
                                     "backgroundColor": "#FFFFFF",
@@ -127,139 +87,155 @@
                                 }
                             },
                             {
-                                "colspan": 3,
-                                "column": 9,
+                                "colspan": 2,
+                                "column": 10,
                                 "name": "pillbox_1",
-                                "row": 0,
+                                "row": 1,
                                 "rowspan": 2,
                                 "widgetStyle": {}
                             },
                             {
-                                "colspan": 9,
-                                "column": 3,
+                                "colspan": 8,
+                                "column": 4,
                                 "name": "chart_1",
-                                "row": 7,
-                                "rowspan": 11,
+                                "row": 9,
+                                "rowspan": 10,
                                 "widgetStyle": {}
                             },
                             {
-                                "colspan": 7,
-                                "column": 5,
+                                "colspan": 6,
+                                "column": 0,
                                 "name": "chart_3",
                                 "row": 27,
                                 "rowspan": 7,
                                 "widgetStyle": {}
                             },
                             {
-                                "colspan": 3,
-                                "column": 3,
+                                "colspan": 5,
+                                "column": 4,
                                 "name": "chart_7",
-                                "row": 2,
-                                "rowspan": 4,
-                                "widgetStyle": {}
-                            },
-                            {
-                                "colspan": 3,
-                                "column": 6,
-                                "name": "chart_9",
-                                "row": 2,
-                                "rowspan": 4,
+                                "row": 3,
+                                "rowspan": 5,
                                 "widgetStyle": {}
                             },
                             {
                                 "colspan": 3,
                                 "column": 9,
-                                "name": "chart_11",
-                                "row": 2,
-                                "rowspan": 4,
+                                "name": "chart_9",
+                                "row": 3,
+                                "rowspan": 5,
                                 "widgetStyle": {}
                             },
                             {
-                                "colspan": 3,
+                                "colspan": 4,
                                 "column": 0,
                                 "name": "chart_4",
-                                "row": 8,
-                                "rowspan": 11,
+                                "row": 3,
+                                "rowspan": 9,
                                 "widgetStyle": {}
                             },
                             {
-                                "colspan": 7,
-                                "column": 4,
-                                "name": "pillbox_2",
-                                "row": 6,
-                                "rowspan": 1,
-                                "widgetStyle": {}
-                            },
-                            {
-                                "colspan": 5,
+                                "colspan": 4,
                                 "column": 0,
                                 "name": "chart_5",
-                                "row": 27,
-                                "rowspan": 7,
+                                "row": 12,
+                                "rowspan": 8,
                                 "widgetStyle": {}
                             },
                             {
-                                "colspan": 9,
-                                "column": 3,
+                                "colspan": 8,
+                                "column": 4,
                                 "name": "container_4",
-                                "row": 6,
-                                "rowspan": 13,
+                                "row": 8,
+                                "rowspan": 12,
                                 "widgetStyle": {}
                             },
                             {
                                 "colspan": 7,
                                 "column": 0,
                                 "name": "chart_6",
-                                "row": 34,
-                                "rowspan": 8,
+                                "row": 20,
+                                "rowspan": 7,
                                 "widgetStyle": {}
                             },
                             {
                                 "colspan": 5,
                                 "column": 7,
-                                "name": "chart_10",
-                                "row": 34,
-                                "rowspan": 8,
-                                "widgetStyle": {}
-                            },
-                            {
-                                "colspan": 6,
-                                "column": 0,
                                 "name": "chart_13",
-                                "row": 42,
-                                "rowspan": 8,
+                                "row": 20,
+                                "rowspan": 7,
                                 "widgetStyle": {}
                             },
                             {
-                                "colspan": 5,
-                                "column": 7,
-                                "name": "chart_15",
-                                "row": 19,
-                                "rowspan": 8,
-                                "widgetStyle": {}
-                            },
-                            {
-                                "colspan": 9,
-                                "column": 3,
+                                "colspan": 8,
+                                "column": 4,
                                 "name": "pillbox_3",
-                                "row": 18,
+                                "row": 19,
                                 "rowspan": 1,
                                 "widgetStyle": {}
                             },
                             {
-                                "row": 19,
-                                "column": 0,
-                                "rowspan": 8,
-                                "colspan": 7,
-                                "name": "chart_16",
+                                "colspan": 6,
+                                "column": 6,
+                                "name": "table_1",
+                                "row": 27,
+                                "rowspan": 7,
                                 "widgetStyle": {}
                             },
                             {
-                                "row": 42,
+                                "colspan": 2,
                                 "column": 6,
-                                "rowspan": 8,
+                                "name": "listselector_3",
+                                "row": 1,
+                                "rowspan": 2,
+                                "widgetStyle": {
+                                    "backgroundColor": "#FFFFFF",
+                                    "borderColor": "#E6ECF2",
+                                    "borderEdges": [
+                                        "all"
+                                    ],
+                                    "borderRadius": 4,
+                                    "borderWidth": 1
+                                }
+                            },
+                            {
                                 "colspan": 6,
-                                "name": "table_1",
+                                "column": 0,
+                                "name": "text_2",
+                                "row": 0,
+                                "rowspan": 1,
+                                "widgetStyle": {}
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 8,
+                                "name": "link_2",
+                                "row": 0,
+                                "rowspan": 1,
+                                "widgetStyle": {}
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 10,
+                                "name": "link_3",
+                                "row": 0,
+                                "rowspan": 1,
+                                "widgetStyle": {}
+                            },
+                            {
+                                "colspan": 2,
+                                "column": 6,
+                                "name": "link_1",
+                                "row": 0,
+                                "rowspan": 1,
+                                "widgetStyle": {}
+                            },
+                            {
+                                "colspan": 8,
+                                "column": 4,
+                                "name": "pillbox_5",
+                                "row": 8,
+                                "rowspan": 1,
                                 "widgetStyle": {}
                             }
                         ]
@@ -281,296 +257,6 @@
         ],
         "layouts": [],
         "steps": {
-            "player_reputation_vs_1": {
-                "type": "aggregateflex",
-                "visualizationParameters": {
-                    "options": {},
-                    "type": "chart",
-                    "parameters": {
-                        "visualizationType": "sankey",
-                        "theme": "wave",
-                        "title": {
-                            "label": "",
-                            "fontSize": 14,
-                            "subtitleLabel": "",
-                            "subtitleFontSize": 11,
-                            "align": "center"
-                        },
-                        "tooltip": {
-                            "customizeTooltip": false,
-                            "showDimensions": true,
-                            "dimensions": "",
-                            "showMeasures": true,
-                            "measures": "",
-                            "showPercentage": true,
-                            "showNullValues": true,
-                            "showBinLabel": true
-                        },
-                        "showActionMenu": true,
-                        "columnMap": {
-                            "plots": [
-                                "count"
-                            ],
-                            "dimensionAxis": [
-                                "International_Reputation",
-                                "Position"
-                            ]
-                        },
-                        "showDimensionTitle": true,
-                        "showTotal": true,
-                        "showAbsoluteValues": true
-                    }
-                },
-                "datasets": [
-                    {
-                        "id": "0Fb5I000000PF1DSAW",
-                        "name": "FIFA_19_Players",
-                        "label": "FIFA 19 Players",
-                        "url": "/services/data/v48.0/wave/datasets/0Fb5I000000PF1DSAW"
-                    }
-                ],
-                "useGlobal": true,
-                "isGlobal": false,
-                "query": {
-                    "measures": [
-                        [
-                            "count",
-                            "*"
-                        ]
-                    ],
-                    "groups": [
-                        "International_Reputation",
-                        "Position"
-                    ],
-                    "order": [
-                        [
-                            "International_Reputation",
-                            {
-                                "ascending": true
-                            }
-                        ],
-                        [
-                            "Position",
-                            {
-                                "ascending": true
-                            }
-                        ]
-                    ]
-                },
-                "broadcastFacet": true,
-                "receiveFacetSource": {
-                    "mode": "all",
-                    "steps": []
-                },
-                "selectMode": "single",
-                "label": "player reputation vs position"
-            },
-            "Nationality_2": {
-                "broadcastFacet": true,
-                "datasets": [
-                    {
-                        "id": "0Fb5I000000PF1DSAW",
-                        "label": "FIFA 19 Players",
-                        "name": "FIFA_19_Players",
-                        "url": "/services/data/v48.0/wave/datasets/0Fb5I000000PF1DSAW"
-                    }
-                ],
-                "isGlobal": false,
-                "query": {
-                    "measures": [
-                        [
-                            "count",
-                            "*"
-                        ]
-                    ],
-                    "groups": [
-                        "Nationality"
-                    ]
-                },
-                "receiveFacetSource": {
-                    "mode": "all",
-                    "steps": []
-                },
-                "selectMode": "single",
-                "type": "aggregateflex",
-                "useGlobal": true,
-                "visualizationParameters": {
-                    "parameters": {
-                        "bins": {
-                            "breakpoints": {
-                                "high": 100,
-                                "low": 0
-                            },
-                            "bands": {
-                                "high": {
-                                    "color": "#008000",
-                                    "label": ""
-                                },
-                                "low": {
-                                    "color": "#B22222",
-                                    "label": ""
-                                },
-                                "medium": {
-                                    "color": "#ffa500",
-                                    "label": ""
-                                }
-                            }
-                        },
-                        "legend": {
-                            "descOrder": false,
-                            "showHeader": true,
-                            "show": true,
-                            "customSize": "auto",
-                            "position": "right-top",
-                            "inside": false
-                        },
-                        "autoZoom": false,
-                        "highColor": "#1674D9",
-                        "tooltip": {
-                            "showBinLabel": true,
-                            "measures": "",
-                            "showNullValues": true,
-                            "showPercentage": true,
-                            "showDimensions": true,
-                            "showMeasures": true,
-                            "customizeTooltip": false,
-                            "dimensions": ""
-                        },
-                        "projectionType": "Mercator",
-                        "lowColor": "#C5DBF7",
-                        "visualizationType": "choropleth",
-                        "title": {
-                            "fontSize": 14,
-                            "subtitleFontSize": 11,
-                            "label": "",
-                            "align": "center",
-                            "subtitleLabel": ""
-                        },
-                        "binValues": false,
-                        "trellis": {
-                            "flipLabels": false,
-                            "showGridLines": true,
-                            "size": [
-                                100,
-                                100
-                            ],
-                            "enable": false,
-                            "type": "x",
-                            "chartsPerLine": 4
-                        },
-                        "columnMap": {
-                            "color": [
-                                "count"
-                            ],
-                            "trellis": [],
-                            "plots": [
-                                "Nationality"
-                            ]
-                        },
-                        "showActionMenu": true,
-                        "theme": "wave",
-                        "map": "World Countries",
-                        "applyConditionalFormatting": true
-                    },
-                    "type": "chart",
-                    "options": {}
-                }
-            },
-            "Nationality_1": {
-                "broadcastFacet": true,
-                "datasets": [
-                    {
-                        "id": "0Fb5I000000PF1DSAW",
-                        "label": "FIFA 19 Players",
-                        "name": "FIFA_19_Players",
-                        "url": "/services/data/v48.0/wave/datasets/0Fb5I000000PF1DSAW"
-                    }
-                ],
-                "isGlobal": false,
-                "query": {
-                    "measures": [
-                        [
-                            "count",
-                            "*"
-                        ]
-                    ],
-                    "groups": [
-                        "Nationality"
-                    ]
-                },
-                "receiveFacetSource": {
-                    "mode": "all",
-                    "steps": []
-                },
-                "selectMode": "multi",
-                "type": "aggregateflex",
-                "useGlobal": true,
-                "visualizationParameters": {
-                    "options": {}
-                }
-            },
-            "players_by_country_a_1": {
-                "broadcastFacet": true,
-                "groups": [],
-                "label": "players by country and sprint speed",
-                "numbers": [],
-                "query": "q = load \"FIFA_19_Players\";\nq = group q by 'Nationality';\nq = foreach q generate 'Nationality' as 'Nationality', avg('SprintSpeed') as 'avg_SprintSpeed';\nq = order q by 'avg_SprintSpeed' desc;\nq = limit q 100;",
-                "receiveFacetSource": {
-                    "mode": "all",
-                    "steps": []
-                },
-                "selectMode": "single",
-                "strings": [],
-                "type": "saql",
-                "useGlobal": true,
-                "visualizationParameters": {
-                    "parameters": {
-                        "autoFitMode": "keepLabels",
-                        "max": 90,
-                        "legend": {
-                            "showHeader": true,
-                            "show": false,
-                            "position": "right-top",
-                            "inside": false
-                        },
-                        "icon": "star",
-                        "iconRounding": "none",
-                        "visualizationType": "rating",
-                        "title": {
-                            "fontSize": 14,
-                            "subtitleFontSize": 11,
-                            "label": "",
-                            "align": "center",
-                            "subtitleLabel": ""
-                        },
-                        "trellis": {
-                            "flipLabels": false,
-                            "showGridLines": true,
-                            "size": [
-                                50,
-                                50
-                            ],
-                            "enable": true,
-                            "type": "y",
-                            "chartsPerLine": 5
-                        },
-                        "colors": {
-                            "lowColor1": "#1674D9",
-                            "highColor1": "#1674D9"
-                        },
-                        "high": 50,
-                        "showActionMenu": true,
-                        "min": 30,
-                        "numberOfIcons": 5,
-                        "valueType": "compactNumber",
-                        "valuesOnLeft": false,
-                        "theme": "wave",
-                        "applyConditionalFormatting": true,
-                        "showMax": false
-                    },
-                    "type": "chart"
-                }
-            },
             "player_by_country_an_1": {
                 "broadcastFacet": true,
                 "datasets": [
@@ -587,10 +273,9 @@
                     "measures": [
                         [
                             "avg",
-                            "Potential"
+                            "{{cell(static_3.selection, 0, \"Text4\").asString()}}"
                         ]
                     ],
-                    "limit": "{{column(static_1.selection, [\"Number2\"]).asObject()}}",
                     "groups": [
                         "Nationality"
                     ]
@@ -600,6 +285,7 @@
                     "steps": []
                 },
                 "selectMode": "single",
+                "start": [],
                 "type": "aggregateflex",
                 "useGlobal": true,
                 "visualizationParameters": {
@@ -634,7 +320,7 @@
                             "inside": false
                         },
                         "autoZoom": false,
-                        "highColor": "#1674D9",
+                        "highColor": "{{cell(static_3.selection, 0, \"HighColor\").asString()}}",
                         "tooltip": {
                             "showBinLabel": true,
                             "measures": "",
@@ -646,7 +332,7 @@
                             "dimensions": ""
                         },
                         "projectionType": "Mercator",
-                        "lowColor": "#C5DBF7",
+                        "lowColor": "{{cell(static_3.selection, 0, \"LowColor\").asString()}}",
                         "visualizationType": "choropleth",
                         "title": {
                             "fontSize": 14,
@@ -666,15 +352,6 @@
                             "enable": false,
                             "type": "x",
                             "chartsPerLine": 4
-                        },
-                        "columnMap": {
-                            "color": [
-                                "avg_Potential"
-                            ],
-                            "trellis": [],
-                            "plots": [
-                                "Nationality"
-                            ]
                         },
                         "showActionMenu": true,
                         "theme": "wave",
@@ -702,6 +379,10 @@
                         [
                             "avg",
                             "Value"
+                        ],
+                        [
+                            "avg",
+                            "Wage"
                         ]
                     ],
                     "limit": "1000",
@@ -715,6 +396,7 @@
                     "steps": []
                 },
                 "selectMode": "single",
+                "start": [],
                 "type": "aggregateflex",
                 "useGlobal": true,
                 "visualizationParameters": {
@@ -724,7 +406,7 @@
                         "legend": {
                             "descOrder": false,
                             "showHeader": false,
-                            "show": true,
+                            "show": false,
                             "customSize": "auto",
                             "position": "top-center",
                             "inside": false
@@ -748,7 +430,7 @@
                         "title": {
                             "fontSize": 14,
                             "subtitleFontSize": 11,
-                            "label": "",
+                            "label": "Average Wages & Value",
                             "align": "center",
                             "subtitleLabel": ""
                         },
@@ -773,7 +455,8 @@
                                 "Nationality"
                             ],
                             "plots": [
-                                "avg_Value"
+                                "avg_Value",
+                                "avg_Wage"
                             ]
                         },
                         "showActionMenu": true,
@@ -788,9 +471,9 @@
                             }
                         },
                         "measureAxis1": {
-                            "sqrtScale": false,
+                            "sqrtScale": true,
                             "showTitle": true,
-                            "showAxis": true,
+                            "showAxis": false,
                             "title": "",
                             "customDomain": {
                                 "showDomain": false
@@ -824,89 +507,6 @@
                     "options": {}
                 }
             },
-            "top_players_1": {
-                "type": "aggregateflex",
-                "query": {
-                    "values": [
-                        "Name",
-                        "Nationality",
-                        "Club",
-                        "Jersey_Number",
-                        "Overall",
-                        "Height",
-                        "Agility"
-                    ]
-                },
-                "visualizationParameters": {
-                    "options": {},
-                    "parameters": {
-                        "customBulkActions": [],
-                        "showActionMenu": false,
-                        "mode": "variable",
-                        "borderWidth": 1,
-                        "borderColor": "#98c6f5",
-                        "evenRowColor": null,
-                        "oddRowColor": null,
-                        "innerMinorBorderColor": "#98c6f5",
-                        "innerMajorBorderColor": "#3290ed",
-                        "verticalPadding": 8,
-                        "numberOfLines": 1,
-                        "header": {
-                            "fontColor": "#ffffff",
-                            "fontSize": 12,
-                            "backgroundColor": "#1589ee"
-                        },
-                        "cell": {
-                            "fontColor": "#16325c",
-                            "fontSize": 12,
-                            "backgroundColor": "#ffffff"
-                        },
-                        "columns": [],
-                        "columnProperties": {
-                            "Overall": {
-                                "parameters": {
-                                    "alignment": "right"
-                                },
-                                "type": "text"
-                            },
-                            "Release_Clause": {
-                                "parameters": {
-                                    "alignment": "right"
-                                },
-                                "type": "text"
-                            },
-                            "Name": {
-                                "parameters": {
-                                    "alignment": "left"
-                                },
-                                "type": "text"
-                            }
-                        },
-                        "minColumnWidth": 40,
-                        "maxColumnWidth": 300,
-                        "showRowIndexColumn": true,
-                        "totals": true
-                    },
-                    "type": "table"
-                },
-                "datasets": [
-                    {
-                        "id": "0Fb5I000000PF1DSAW",
-                        "label": "FIFA 19 Players",
-                        "name": "FIFA_19_Players",
-                        "url": "/services/data/v48.0/wave/datasets/0Fb5I000000PF1DSAW"
-                    }
-                ],
-                "useGlobal": true,
-                "isGlobal": false,
-                "label": "top players",
-                "broadcastFacet": true,
-                "receiveFacetSource": {
-                    "mode": "all",
-                    "steps": []
-                },
-                "selectMode": "single"
-            },
             "player_rating_countr_1": {
                 "broadcastFacet": true,
                 "datasets": [
@@ -926,7 +526,7 @@
                             "SprintSpeed"
                         ]
                     ],
-                    "limit": "{{column(static_1.selection, [\"Number2\"]).asObject()}}",
+                    "limit": "50",
                     "groups": [
                         "Nationality"
                     ],
@@ -944,6 +544,7 @@
                     "steps": []
                 },
                 "selectMode": "single",
+                "start": [],
                 "type": "aggregateflex",
                 "useGlobal": true,
                 "visualizationParameters": {
@@ -997,480 +598,6 @@
                     "options": {}
                 }
             },
-            "player_by_skills_1": {
-                "broadcastFacet": true,
-                "datasets": [
-                    {
-                        "id": "0Fb5I000000PF1DSAW",
-                        "label": "FIFA 19 Players",
-                        "name": "FIFA_19_Players",
-                        "url": "/services/data/v48.0/wave/datasets/0Fb5I000000PF1DSAW"
-                    }
-                ],
-                "isGlobal": false,
-                "label": "player by skills",
-                "query": {
-                    "measures": [
-                        [
-                            "count",
-                            "*"
-                        ]
-                    ],
-                    "groups": [
-                        "Skill_Moves"
-                    ]
-                },
-                "receiveFacetSource": {
-                    "mode": "all",
-                    "steps": []
-                },
-                "selectMode": "single",
-                "type": "aggregateflex",
-                "useGlobal": true,
-                "visualizationParameters": {
-                    "parameters": {
-                        "autoFitMode": "keepLabels",
-                        "showValues": true,
-                        "columnMap": {
-                            "trellis": [],
-                            "dimension": [
-                                "Skill_Moves"
-                            ],
-                            "plots": [
-                                "count"
-                            ]
-                        },
-                        "showActionMenu": true,
-                        "legend": {
-                            "descOrder": false,
-                            "showHeader": true,
-                            "show": true,
-                            "customSize": "auto",
-                            "position": "right-top",
-                            "inside": false
-                        },
-                        "tooltip": {
-                            "showBinLabel": true,
-                            "measures": "",
-                            "showNullValues": true,
-                            "showPercentage": true,
-                            "showDimensions": true,
-                            "showMeasures": true,
-                            "customizeTooltip": false,
-                            "dimensions": ""
-                        },
-                        "visualizationType": "treemap",
-                        "theme": "wave",
-                        "title": {
-                            "fontSize": 14,
-                            "subtitleFontSize": 11,
-                            "label": "",
-                            "align": "center",
-                            "subtitleLabel": ""
-                        },
-                        "trellis": {
-                            "flipLabels": false,
-                            "showGridLines": true,
-                            "size": [
-                                100,
-                                100
-                            ],
-                            "enable": false,
-                            "type": "x",
-                            "chartsPerLine": 4
-                        },
-                        "applyConditionalFormatting": true
-                    },
-                    "type": "chart",
-                    "options": {}
-                }
-            },
-            "avg_wage_1": {
-                "broadcastFacet": true,
-                "datasets": [
-                    {
-                        "id": "0Fb5I000000PF1DSAW",
-                        "label": "FIFA 19 Players",
-                        "name": "FIFA_19_Players",
-                        "url": "/services/data/v48.0/wave/datasets/0Fb5I000000PF1DSAW"
-                    }
-                ],
-                "isGlobal": false,
-                "label": "avg wage",
-                "query": {
-                    "measures": [
-                        [
-                            "avg",
-                            "Wage"
-                        ]
-                    ]
-                },
-                "receiveFacetSource": {
-                    "mode": "all",
-                    "steps": []
-                },
-                "selectMode": "single",
-                "type": "aggregateflex",
-                "useGlobal": true,
-                "visualizationParameters": {
-                    "parameters": {
-                        "autoFitMode": "keepLabels",
-                        "max": 300,
-                        "showPercentage": true,
-                        "visualizationType": "gauge",
-                        "medium": 33,
-                        "title": {
-                            "fontSize": 14,
-                            "subtitleFontSize": 11,
-                            "label": "",
-                            "align": "center",
-                            "subtitleLabel": ""
-                        },
-                        "trellis": {
-                            "flipLabels": false,
-                            "showGridLines": true,
-                            "size": [
-                                100,
-                                100
-                            ],
-                            "enable": false,
-                            "type": "x",
-                            "chartsPerLine": 4
-                        },
-                        "bands": {
-                            "high": {
-                                "color": "#008000",
-                                "label": "High"
-                            },
-                            "low": {
-                                "color": "#B22222",
-                                "label": "Low"
-                            },
-                            "medium": {
-                                "color": "#ffa500",
-                                "label": "Medium"
-                            }
-                        },
-                        "showRange": true,
-                        "showLabel": true,
-                        "columnMap": {
-                            "trellis": [],
-                            "plots": [
-                                "avg_Wage"
-                            ]
-                        },
-                        "showValue": true,
-                        "high": 66,
-                        "showActionMenu": true,
-                        "min": 0,
-                        "angle": 270,
-                        "theme": "wave",
-                        "applyConditionalFormatting": true
-                    },
-                    "type": "chart",
-                    "options": {}
-                }
-            },
-            "age_vs_stamina_2": {
-                "broadcastFacet": true,
-                "datasets": [
-                    {
-                        "id": "0Fb5I000000PF1DSAW",
-                        "label": "FIFA 19 Players",
-                        "name": "FIFA_19_Players",
-                        "url": "/services/data/v48.0/wave/datasets/0Fb5I000000PF1DSAW"
-                    }
-                ],
-                "isGlobal": false,
-                "label": "age vs stamina",
-                "query": {
-                    "measures": [
-                        [
-                            "count",
-                            "*"
-                        ],
-                        [
-                            "avg",
-                            "Age"
-                        ],
-                        [
-                            "avg",
-                            "Stamina"
-                        ]
-                    ],
-                    "groups": [
-                        "Position"
-                    ]
-                },
-                "receiveFacetSource": {
-                    "mode": "all",
-                    "steps": []
-                },
-                "selectMode": "single",
-                "type": "aggregateflex",
-                "useGlobal": true,
-                "visualizationParameters": {
-                    "parameters": {
-                        "autoFitMode": "keepLabels",
-                        "showValues": true,
-                        "legend": {
-                            "descOrder": false,
-                            "showHeader": true,
-                            "show": true,
-                            "customSize": "auto",
-                            "position": "bottom-center",
-                            "inside": false
-                        },
-                        "showMeasureTitle": true,
-                        "tooltip": {
-                            "showBinLabel": true,
-                            "measures": [
-                                "count",
-                                "avg_Age",
-                                "avg_Stamina"
-                            ],
-                            "showNullValues": true,
-                            "showPercentage": true,
-                            "showDimensions": true,
-                            "showMeasures": true,
-                            "customizeTooltip": true,
-                            "dimensions": [
-                                "Position"
-                            ]
-                        },
-                        "visualizationType": "pyramid",
-                        "title": {
-                            "fontSize": 14,
-                            "subtitleFontSize": 11,
-                            "label": "",
-                            "align": "center",
-                            "subtitleLabel": ""
-                        },
-                        "trellis": {
-                            "flipLabels": false,
-                            "showGridLines": true,
-                            "size": [
-                                100,
-                                100
-                            ],
-                            "enable": false,
-                            "type": "x",
-                            "chartsPerLine": 4
-                        },
-                        "showMeasure": true,
-                        "columnMap": {
-                            "measureAxis2": [
-                                "avg_Stamina"
-                            ],
-                            "measureAxis1": [
-                                "avg_Age"
-                            ],
-                            "trellis": [],
-                            "dimensionAxis": [
-                                "Position"
-                            ],
-                            "plots": [
-                                "count"
-                            ]
-                        },
-                        "showActionMenu": true,
-                        "measureAxis2": {
-                            "sqrtScale": false,
-                            "title": "",
-                            "customDomain": {
-                                "showDomain": false
-                            }
-                        },
-                        "measureAxis1": {
-                            "sqrtScale": false,
-                            "title": "",
-                            "customDomain": {
-                                "showDomain": false
-                            }
-                        },
-                        "theme": "wave",
-                        "rightColor": "#e16032",
-                        "leftColor": "#52b7d8",
-                        "dimensionAxis": {
-                            "customSize": "auto",
-                            "showAxis": false
-                        },
-                        "applyConditionalFormatting": true
-                    },
-                    "type": "chart",
-                    "options": {}
-                }
-            },
-            "static_2": {
-                "broadcastFacet": true,
-                "columns": {
-                    "value": {
-                        "type": "string"
-                    },
-                    "Display": {
-                        "type": "string"
-                    }
-                },
-                "label": "",
-                "selectMode": "singlerequired",
-                "type": "staticflex",
-                "values": [
-                    {
-                        "Display": "World",
-                        "value": "World Countries"
-                    },
-                    {
-                        "Display": "Americas",
-                        "value": "Americas"
-                    },
-                    {
-                        "Display": "Europe",
-                        "value": "Europe"
-                    },
-                    {
-                        "Display": "Asia",
-                        "value": "Asia"
-                    },
-                    {
-                        "Display": "Africa",
-                        "value": "Africa"
-                    },
-                    {
-                        "Display": "Australasia",
-                        "value": "Australasia"
-                    }
-                ],
-                "numbers": [],
-                "strings": [],
-                "groups": []
-            },
-            "static_1": {
-                "broadcastFacet": true,
-                "columns": {
-                    "Number2": {
-                        "type": "number"
-                    },
-                    "Display": {
-                        "type": "string"
-                    }
-                },
-                "label": "",
-                "selectMode": "singlerequired",
-                "type": "staticflex",
-                "values": [
-                    {
-                        "Display": "All",
-                        "Number2": 1000
-                    },
-                    {
-                        "Display": "Top 15",
-                        "Number2": 15
-                    },
-                    {
-                        "Display": "Top 50",
-                        "Number2": 50
-                    },
-                    {
-                        "Display": "Top 100",
-                        "Number2": 100
-                    }
-                ],
-                "numbers": [],
-                "strings": [],
-                "groups": []
-            },
-            "Player_by_body_type_1": {
-                "broadcastFacet": true,
-                "datasets": [
-                    {
-                        "id": "0Fb5I000000PF1DSAW",
-                        "label": "FIFA 19 Players",
-                        "name": "FIFA_19_Players",
-                        "url": "/services/data/v48.0/wave/datasets/0Fb5I000000PF1DSAW"
-                    }
-                ],
-                "isGlobal": false,
-                "label": "Player by body type",
-                "query": {
-                    "measures": [
-                        [
-                            "avg",
-                            "Aggression"
-                        ]
-                    ],
-                    "groups": [
-                        "Body_Type"
-                    ]
-                },
-                "receiveFacetSource": {
-                    "mode": "all",
-                    "steps": []
-                },
-                "selectMode": "single",
-                "type": "aggregateflex",
-                "useGlobal": true,
-                "visualizationParameters": {
-                    "parameters": {
-                        "autoFitMode": "keepLabels",
-                        "centerText": "",
-                        "legend": {
-                            "descOrder": false,
-                            "showHeader": true,
-                            "show": true,
-                            "customSize": "auto",
-                            "position": "left-top",
-                            "inside": false
-                        },
-                        "showMeasureTitle": false,
-                        "tooltip": {
-                            "showBinLabel": true,
-                            "measures": "",
-                            "showNullValues": true,
-                            "showPercentage": true,
-                            "showDimensions": true,
-                            "showMeasures": true,
-                            "customizeTooltip": false,
-                            "dimensions": ""
-                        },
-                        "visualizationType": "pie",
-                        "title": {
-                            "fontSize": 14,
-                            "subtitleFontSize": 11,
-                            "label": "",
-                            "align": "center",
-                            "subtitleLabel": ""
-                        },
-                        "trellis": {
-                            "flipLabels": false,
-                            "showGridLines": true,
-                            "size": [
-                                100,
-                                100
-                            ],
-                            "enable": false,
-                            "type": "x",
-                            "chartsPerLine": 4
-                        },
-                        "inner": 70,
-                        "columnMap": {
-                            "trellis": [],
-                            "dimension": [
-                                "Body_Type"
-                            ],
-                            "plots": [
-                                "avg_Aggression"
-                            ]
-                        },
-                        "showActionMenu": true,
-                        "centerValueType": "number",
-                        "valueType": "compactNumber",
-                        "theme": "wave",
-                        "applyConditionalFormatting": true
-                    },
-                    "type": "chart",
-                    "options": {}
-                }
-            },
             "Preferred_Foot_1": {
                 "broadcastFacet": true,
                 "datasets": [
@@ -1498,99 +625,10 @@
                     "steps": []
                 },
                 "selectMode": "single",
+                "start": [],
                 "type": "aggregateflex",
                 "useGlobal": true,
                 "visualizationParameters": {
-                    "options": {}
-                }
-            },
-            "player_positions_1": {
-                "broadcastFacet": true,
-                "datasets": [
-                    {
-                        "id": "0Fb5I000000PF1DSAW",
-                        "label": "FIFA 19 Players",
-                        "name": "FIFA_19_Players",
-                        "url": "/services/data/v48.0/wave/datasets/0Fb5I000000PF1DSAW"
-                    }
-                ],
-                "isGlobal": false,
-                "label": "player positions",
-                "query": {
-                    "measures": [
-                        [
-                            "count",
-                            "*"
-                        ]
-                    ],
-                    "groups": [
-                        "Position"
-                    ]
-                },
-                "receiveFacetSource": {
-                    "mode": "all",
-                    "steps": []
-                },
-                "selectMode": "single",
-                "type": "aggregateflex",
-                "useGlobal": true,
-                "visualizationParameters": {
-                    "parameters": {
-                        "autoFitMode": "keepLabels",
-                        "legend": {
-                            "descOrder": false,
-                            "showHeader": true,
-                            "show": true,
-                            "customSize": "auto",
-                            "position": "right-top",
-                            "inside": false
-                        },
-                        "showMeasureTitle": true,
-                        "tooltip": {
-                            "showBinLabel": true,
-                            "measures": "",
-                            "showNullValues": true,
-                            "showPercentage": true,
-                            "showDimensions": true,
-                            "showMeasures": true,
-                            "customizeTooltip": false,
-                            "dimensions": ""
-                        },
-                        "visualizationType": "origami",
-                        "title": {
-                            "fontSize": 14,
-                            "subtitleFontSize": 11,
-                            "label": "",
-                            "align": "center",
-                            "subtitleLabel": ""
-                        },
-                        "trellis": {
-                            "flipLabels": false,
-                            "showGridLines": true,
-                            "size": [
-                                100,
-                                100
-                            ],
-                            "enable": false,
-                            "type": "x",
-                            "chartsPerLine": 4
-                        },
-                        "columnMap": {
-                            "trellis": [],
-                            "dimension": [
-                                "Position"
-                            ],
-                            "plots": [
-                                "count"
-                            ]
-                        },
-                        "showActionMenu": true,
-                        "valueType": "compactNumber",
-                        "showTotal": true,
-                        "theme": "wave",
-                        "applyConditionalFormatting": true
-                    },
-                    "type": "chart",
                     "options": {}
                 }
             },
@@ -1619,10 +657,23 @@
                         [
                             "avg",
                             "Stamina"
+                        ],
+                        [
+                            "avg",
+                            "Overall"
                         ]
                     ],
+                    "limit": 30,
                     "groups": [
-                        "Position"
+                        "Club"
+                    ],
+                    "order": [
+                        [
+                            "avg_Stamina",
+                            {
+                                "ascending": false
+                            }
+                        ]
                     ]
                 },
                 "receiveFacetSource": {
@@ -1630,6 +681,7 @@
                     "steps": []
                 },
                 "selectMode": "single",
+                "start": [],
                 "type": "aggregateflex",
                 "useGlobal": true,
                 "visualizationParameters": {
@@ -1638,7 +690,7 @@
                         "showValues": true,
                         "legend": {
                             "descOrder": false,
-                            "showHeader": true,
+                            "showHeader": false,
                             "show": true,
                             "customSize": "auto",
                             "position": "bottom-center",
@@ -1658,7 +710,7 @@
                             "showMeasures": true,
                             "customizeTooltip": true,
                             "dimensions": [
-                                "Position"
+                                "Club"
                             ]
                         },
                         "visualizationType": "pyramid",
@@ -1666,7 +718,7 @@
                             "fontSize": 14,
                             "subtitleFontSize": 11,
                             "label": "",
-                            "align": "center",
+                            "align": "left",
                             "subtitleLabel": ""
                         },
                         "trellis": {
@@ -1690,7 +742,7 @@
                             ],
                             "trellis": [],
                             "dimensionAxis": [
-                                "Position"
+                                "Club"
                             ],
                             "plots": [
                                 "count"
@@ -1724,39 +776,6 @@
                     "options": {}
                 }
             },
-            "Club_1": {
-                "broadcastFacet": true,
-                "datasets": [
-                    {
-                        "id": "0Fb5I000000PF1DSAW",
-                        "label": "FIFA 19 Players",
-                        "name": "FIFA_19_Players",
-                        "url": "/services/data/v48.0/wave/datasets/0Fb5I000000PF1DSAW"
-                    }
-                ],
-                "isGlobal": false,
-                "query": {
-                    "measures": [
-                        [
-                            "count",
-                            "*"
-                        ]
-                    ],
-                    "groups": [
-                        "Club"
-                    ]
-                },
-                "receiveFacetSource": {
-                    "mode": "all",
-                    "steps": []
-                },
-                "selectMode": "multi",
-                "type": "aggregateflex",
-                "useGlobal": true,
-                "visualizationParameters": {
-                    "options": {}
-                }
-            },
             "Age_1": {
                 "broadcastFacet": true,
                 "datasets": [
@@ -1781,6 +800,7 @@
                     "steps": []
                 },
                 "selectMode": "single",
+                "start": [],
                 "type": "aggregateflex",
                 "useGlobal": true,
                 "visualizationParameters": {
@@ -1802,9 +822,12 @@
                 "query": {
                     "measures": [
                         [
-                            "avg",
+                            "max",
                             "Height"
                         ]
+                    ],
+                    "groups": [
+                        "Skill_Moves"
                     ]
                 },
                 "receiveFacetSource": {
@@ -1812,19 +835,38 @@
                     "steps": []
                 },
                 "selectMode": "single",
+                "start": [],
                 "type": "aggregateflex",
                 "useGlobal": true,
                 "visualizationParameters": {
                     "parameters": {
                         "autoFitMode": "keepLabels",
-                        "max": 6.3,
-                        "showPercentage": true,
-                        "visualizationType": "gauge",
-                        "medium": 33,
+                        "showValues": true,
+                        "legend": {
+                            "descOrder": false,
+                            "showHeader": true,
+                            "show": true,
+                            "customSize": "auto",
+                            "position": "bottom-center",
+                            "inside": false
+                        },
+                        "totalSumMode": "none",
+                        "axisMode": "multi",
+                        "tooltip": {
+                            "showBinLabel": true,
+                            "measures": "",
+                            "showNullValues": true,
+                            "showPercentage": true,
+                            "showDimensions": true,
+                            "showMeasures": true,
+                            "customizeTooltip": false,
+                            "dimensions": ""
+                        },
+                        "visualizationType": "stackhbar",
                         "title": {
-                            "fontSize": 14,
+                            "fontSize": 12,
                             "subtitleFontSize": 11,
-                            "label": "",
+                            "label": "Maximum player height",
                             "align": "center",
                             "subtitleLabel": ""
                         },
@@ -1832,48 +874,65 @@
                             "flipLabels": false,
                             "showGridLines": true,
                             "size": [
-                                100,
-                                100
+                                50,
+                                50
                             ],
                             "enable": false,
                             "type": "x",
                             "chartsPerLine": 4
                         },
-                        "bands": {
-                            "high": {
-                                "color": "#008000",
-                                "label": "High"
-                            },
-                            "low": {
-                                "color": "#B22222",
-                                "label": "Low"
-                            },
-                            "medium": {
-                                "color": "#ffa500",
-                                "label": "Medium"
-                            }
-                        },
-                        "showRange": true,
-                        "showLabel": true,
                         "columnMap": {
+                            "split": [
+                                "Skill_Moves"
+                            ],
                             "trellis": [],
+                            "dimensionAxis": [],
                             "plots": [
-                                "avg_Height"
+                                "max_Height"
                             ]
                         },
-                        "high": 66,
-                        "showValue": true,
                         "showActionMenu": true,
-                        "min": 5.3,
-                        "angle": 270,
+                        "measureAxis2": {
+                            "sqrtScale": false,
+                            "showTitle": true,
+                            "showAxis": true,
+                            "title": "",
+                            "customDomain": {
+                                "showDomain": false
+                            }
+                        },
+                        "normalize": false,
+                        "measureAxis1": {
+                            "sqrtScale": true,
+                            "showTitle": false,
+                            "showAxis": false,
+                            "title": "",
+                            "customDomain": {
+                                "showDomain": false
+                            }
+                        },
                         "theme": "wave",
-                        "applyConditionalFormatting": true
+                        "applyConditionalFormatting": true,
+                        "dimensionAxis": {
+                            "showTitle": true,
+                            "customSize": "auto",
+                            "showAxis": true,
+                            "title": "",
+                            "icons": {
+                                "useIcons": false,
+                                "iconProps": {
+                                    "fit": "cover",
+                                    "column": "",
+                                    "type": "round"
+                                }
+                            }
+                        }
                     },
                     "type": "chart",
                     "options": {}
                 }
             },
-            "avg_vision_1": {
+            "Position_1": {
                 "broadcastFacet": true,
                 "datasets": [
                     {
@@ -1884,13 +943,15 @@
                     }
                 ],
                 "isGlobal": false,
-                "label": "avg vision",
                 "query": {
                     "measures": [
                         [
-                            "avg",
-                            "Vision"
+                            "count",
+                            "*"
                         ]
+                    ],
+                    "groups": [
+                        "Position"
                     ]
                 },
                 "receiveFacetSource": {
@@ -1898,64 +959,10 @@
                     "steps": []
                 },
                 "selectMode": "single",
+                "start": [],
                 "type": "aggregateflex",
                 "useGlobal": true,
                 "visualizationParameters": {
-                    "parameters": {
-                        "autoFitMode": "keepLabels",
-                        "max": 80,
-                        "showPercentage": true,
-                        "visualizationType": "gauge",
-                        "medium": 33,
-                        "title": {
-                            "fontSize": 14,
-                            "subtitleFontSize": 11,
-                            "label": "",
-                            "align": "center",
-                            "subtitleLabel": ""
-                        },
-                        "trellis": {
-                            "flipLabels": false,
-                            "showGridLines": true,
-                            "size": [
-                                100,
-                                100
-                            ],
-                            "enable": false,
-                            "type": "x",
-                            "chartsPerLine": 4
-                        },
-                        "bands": {
-                            "high": {
-                                "color": "#008000",
-                                "label": "High"
-                            },
-                            "low": {
-                                "color": "#B22222",
-                                "label": "Low"
-                            },
-                            "medium": {
-                                "color": "#ffa500",
-                                "label": "Medium"
-                            }
-                        },
-                        "showRange": true,
-                        "showLabel": true,
-                        "columnMap": {
-                            "trellis": [],
-                            "plots": [
-                                "avg_Vision"
-                            ]
-                        },
-                        "showValue": true,
-                        "high": 66,
-                        "showActionMenu": true,
-                        "min": 30,
-                        "angle": 270,
-                        "theme": "wave",
-                        "applyConditionalFormatting": true
-                    },
-                    "type": "chart",
                     "options": {}
                 }
             },
@@ -2515,6 +1522,1093 @@
                     "type": "chart",
                     "options": {}
                 }
+            },
+            "Nationality_2": {
+                "broadcastFacet": true,
+                "datasets": [
+                    {
+                        "id": "0Fb5I000000PF1DSAW",
+                        "label": "FIFA 19 Players",
+                        "name": "FIFA_19_Players",
+                        "url": "/services/data/v48.0/wave/datasets/0Fb5I000000PF1DSAW"
+                    }
+                ],
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "Nationality"
+                    ]
+                },
+                "receiveFacetSource": {
+                    "mode": "all",
+                    "steps": []
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "parameters": {
+                        "bins": {
+                            "breakpoints": {
+                                "high": 100,
+                                "low": 0
+                            },
+                            "bands": {
+                                "high": {
+                                    "color": "#008000",
+                                    "label": ""
+                                },
+                                "low": {
+                                    "color": "#B22222",
+                                    "label": ""
+                                },
+                                "medium": {
+                                    "color": "#ffa500",
+                                    "label": ""
+                                }
+                            }
+                        },
+                        "legend": {
+                            "descOrder": false,
+                            "showHeader": true,
+                            "show": true,
+                            "customSize": "auto",
+                            "position": "right-top",
+                            "inside": false
+                        },
+                        "autoZoom": false,
+                        "highColor": "#1674D9",
+                        "tooltip": {
+                            "showBinLabel": true,
+                            "measures": "",
+                            "showNullValues": true,
+                            "showPercentage": true,
+                            "showDimensions": true,
+                            "showMeasures": true,
+                            "customizeTooltip": false,
+                            "dimensions": ""
+                        },
+                        "projectionType": "Mercator",
+                        "lowColor": "#C5DBF7",
+                        "visualizationType": "choropleth",
+                        "title": {
+                            "fontSize": 14,
+                            "subtitleFontSize": 11,
+                            "label": "",
+                            "align": "center",
+                            "subtitleLabel": ""
+                        },
+                        "binValues": false,
+                        "trellis": {
+                            "flipLabels": false,
+                            "showGridLines": true,
+                            "size": [
+                                100,
+                                100
+                            ],
+                            "enable": false,
+                            "type": "x",
+                            "chartsPerLine": 4
+                        },
+                        "columnMap": {
+                            "color": [
+                                "count"
+                            ],
+                            "trellis": [],
+                            "plots": [
+                                "Nationality"
+                            ]
+                        },
+                        "showActionMenu": true,
+                        "theme": "wave",
+                        "map": "World Countries",
+                        "applyConditionalFormatting": true
+                    },
+                    "type": "chart",
+                    "options": {}
+                }
+            },
+            "Nationality_1": {
+                "broadcastFacet": true,
+                "datasets": [
+                    {
+                        "id": "0Fb5I000000PF1DSAW",
+                        "label": "FIFA 19 Players",
+                        "name": "FIFA_19_Players",
+                        "url": "/services/data/v48.0/wave/datasets/0Fb5I000000PF1DSAW"
+                    }
+                ],
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "Nationality"
+                    ]
+                },
+                "receiveFacetSource": {
+                    "mode": "all",
+                    "steps": []
+                },
+                "selectMode": "multi",
+                "start": [],
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            },
+            "players_by_country_a_1": {
+                "broadcastFacet": true,
+                "groups": [],
+                "label": "players by country and sprint speed",
+                "numbers": [],
+                "query": "q = load \"FIFA_19_Players\";\nq = group q by 'Nationality';\nq = foreach q generate 'Nationality' as 'Nationality', avg('SprintSpeed') as 'avg_SprintSpeed';\nq = order q by 'avg_SprintSpeed' desc;\nq = limit q 100;",
+                "receiveFacetSource": {
+                    "mode": "all",
+                    "steps": []
+                },
+                "selectMode": "single",
+                "strings": [],
+                "type": "saql",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "parameters": {
+                        "autoFitMode": "keepLabels",
+                        "max": 90,
+                        "legend": {
+                            "showHeader": true,
+                            "show": false,
+                            "position": "right-top",
+                            "inside": false
+                        },
+                        "icon": "star",
+                        "iconRounding": "none",
+                        "visualizationType": "rating",
+                        "title": {
+                            "fontSize": 14,
+                            "subtitleFontSize": 11,
+                            "label": "",
+                            "align": "center",
+                            "subtitleLabel": ""
+                        },
+                        "trellis": {
+                            "flipLabels": false,
+                            "showGridLines": true,
+                            "size": [
+                                50,
+                                50
+                            ],
+                            "enable": true,
+                            "type": "y",
+                            "chartsPerLine": 5
+                        },
+                        "colors": {
+                            "lowColor1": "#1674D9",
+                            "highColor1": "#1674D9"
+                        },
+                        "high": 50,
+                        "showActionMenu": true,
+                        "min": 30,
+                        "numberOfIcons": 5,
+                        "valueType": "compactNumber",
+                        "valuesOnLeft": false,
+                        "theme": "wave",
+                        "applyConditionalFormatting": true,
+                        "showMax": false
+                    },
+                    "type": "chart"
+                }
+            },
+            "top_players_1": {
+                "broadcastFacet": true,
+                "datasets": [
+                    {
+                        "id": "0Fb5I000000PF1DSAW",
+                        "label": "FIFA 19 Players",
+                        "name": "FIFA_19_Players",
+                        "url": "/services/data/v48.0/wave/datasets/0Fb5I000000PF1DSAW"
+                    }
+                ],
+                "isGlobal": false,
+                "label": "top players",
+                "query": {
+                    "values": [
+                        "Name",
+                        "Nationality",
+                        "Club",
+                        "Jersey_Number",
+                        "Strength",
+                        "Composure",
+                        "Release_Clause"
+                    ]
+                },
+                "receiveFacetSource": {
+                    "mode": "all",
+                    "steps": []
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {},
+                    "parameters": {
+                        "borderColor": "#98c6f5",
+                        "borderWidth": 1,
+                        "cell": {
+                            "backgroundColor": "#ffffff",
+                            "fontColor": "#16325c",
+                            "fontSize": 12
+                        },
+                        "columnProperties": {
+                            "Overall": {
+                                "parameters": {
+                                    "alignment": "right"
+                                },
+                                "type": "text"
+                            },
+                            "Release_Clause": {
+                                "parameters": {
+                                    "alignment": "right"
+                                },
+                                "type": "text"
+                            },
+                            "Name": {
+                                "parameters": {
+                                    "alignment": "left"
+                                },
+                                "type": "text"
+                            }
+                        },
+                        "columns": [],
+                        "customBulkActions": [],
+                        "header": {
+                            "backgroundColor": "#1589ee",
+                            "fontColor": "#ffffff",
+                            "fontSize": 12
+                        },
+                        "innerMajorBorderColor": "#3290ed",
+                        "innerMinorBorderColor": "#98c6f5",
+                        "mode": "fittocontainer",
+                        "numberOfLines": 1,
+                        "showActionMenu": false,
+                        "showRowIndexColumn": false,
+                        "totals": true,
+                        "verticalPadding": 8
+                    },
+                    "type": "table"
+                }
+            },
+            "player_by_skills_1": {
+                "broadcastFacet": true,
+                "datasets": [
+                    {
+                        "id": "0Fb5I000000PF1DSAW",
+                        "label": "FIFA 19 Players",
+                        "name": "FIFA_19_Players",
+                        "url": "/services/data/v48.0/wave/datasets/0Fb5I000000PF1DSAW"
+                    }
+                ],
+                "isGlobal": false,
+                "label": "player by skills",
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "Skill_Moves"
+                    ]
+                },
+                "receiveFacetSource": {
+                    "mode": "all",
+                    "steps": []
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "parameters": {
+                        "autoFitMode": "keepLabels",
+                        "showValues": true,
+                        "columnMap": {
+                            "trellis": [],
+                            "dimension": [
+                                "Skill_Moves"
+                            ],
+                            "plots": [
+                                "count"
+                            ]
+                        },
+                        "showActionMenu": true,
+                        "legend": {
+                            "descOrder": false,
+                            "showHeader": true,
+                            "show": true,
+                            "customSize": "auto",
+                            "position": "right-top",
+                            "inside": false
+                        },
+                        "tooltip": {
+                            "showBinLabel": true,
+                            "measures": "",
+                            "showNullValues": true,
+                            "showPercentage": true,
+                            "showDimensions": true,
+                            "showMeasures": true,
+                            "customizeTooltip": false,
+                            "dimensions": ""
+                        },
+                        "visualizationType": "treemap",
+                        "theme": "wave",
+                        "title": {
+                            "fontSize": 14,
+                            "subtitleFontSize": 11,
+                            "label": "",
+                            "align": "center",
+                            "subtitleLabel": ""
+                        },
+                        "trellis": {
+                            "flipLabels": false,
+                            "showGridLines": true,
+                            "size": [
+                                100,
+                                100
+                            ],
+                            "enable": false,
+                            "type": "x",
+                            "chartsPerLine": 4
+                        },
+                        "applyConditionalFormatting": true
+                    },
+                    "type": "chart",
+                    "options": {}
+                }
+            },
+            "avg_wage_1": {
+                "broadcastFacet": true,
+                "datasets": [
+                    {
+                        "id": "0Fb5I000000PF1DSAW",
+                        "label": "FIFA 19 Players",
+                        "name": "FIFA_19_Players",
+                        "url": "/services/data/v48.0/wave/datasets/0Fb5I000000PF1DSAW"
+                    }
+                ],
+                "isGlobal": false,
+                "label": "avg wage",
+                "query": {
+                    "measures": [
+                        [
+                            "avg",
+                            "Wage"
+                        ]
+                    ]
+                },
+                "receiveFacetSource": {
+                    "mode": "all",
+                    "steps": []
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "parameters": {
+                        "autoFitMode": "keepLabels",
+                        "max": 300,
+                        "showPercentage": true,
+                        "visualizationType": "gauge",
+                        "medium": 33,
+                        "title": {
+                            "fontSize": 14,
+                            "subtitleFontSize": 11,
+                            "label": "",
+                            "align": "center",
+                            "subtitleLabel": ""
+                        },
+                        "trellis": {
+                            "flipLabels": false,
+                            "showGridLines": true,
+                            "size": [
+                                100,
+                                100
+                            ],
+                            "enable": false,
+                            "type": "x",
+                            "chartsPerLine": 4
+                        },
+                        "bands": {
+                            "high": {
+                                "color": "#008000",
+                                "label": "High"
+                            },
+                            "low": {
+                                "color": "#B22222",
+                                "label": "Low"
+                            },
+                            "medium": {
+                                "color": "#ffa500",
+                                "label": "Medium"
+                            }
+                        },
+                        "showRange": true,
+                        "showLabel": true,
+                        "columnMap": {
+                            "trellis": [],
+                            "plots": [
+                                "avg_Wage"
+                            ]
+                        },
+                        "showValue": true,
+                        "high": 66,
+                        "showActionMenu": true,
+                        "min": 0,
+                        "angle": 270,
+                        "theme": "wave",
+                        "applyConditionalFormatting": true
+                    },
+                    "type": "chart",
+                    "options": {}
+                }
+            },
+            "player_reputation_vs_1": {
+                "broadcastFacet": true,
+                "datasets": [
+                    {
+                        "id": "0Fb5I000000PF1DSAW",
+                        "label": "FIFA 19 Players",
+                        "name": "FIFA_19_Players",
+                        "url": "/services/data/v48.0/wave/datasets/0Fb5I000000PF1DSAW"
+                    }
+                ],
+                "isGlobal": false,
+                "label": "player reputation vs position",
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "International_Reputation",
+                        "Position"
+                    ],
+                    "order": [
+                        [
+                            "International_Reputation",
+                            {
+                                "ascending": true
+                            }
+                        ],
+                        [
+                            "Position",
+                            {
+                                "ascending": true
+                            }
+                        ]
+                    ]
+                },
+                "receiveFacetSource": {
+                    "mode": "all",
+                    "steps": []
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "parameters": {
+                        "showDimensionTitle": true,
+                        "columnMap": {
+                            "dimensionAxis": [
+                                "International_Reputation",
+                                "Position"
+                            ],
+                            "plots": [
+                                "count"
+                            ]
+                        },
+                        "showActionMenu": true,
+                        "showAbsoluteValues": true,
+                        "showTotal": true,
+                        "tooltip": {
+                            "showBinLabel": true,
+                            "measures": "",
+                            "showNullValues": true,
+                            "showPercentage": true,
+                            "showDimensions": true,
+                            "showMeasures": true,
+                            "customizeTooltip": false,
+                            "dimensions": ""
+                        },
+                        "visualizationType": "sankey",
+                        "theme": "wave",
+                        "title": {
+                            "fontSize": 14,
+                            "subtitleFontSize": 11,
+                            "label": "",
+                            "align": "center",
+                            "subtitleLabel": ""
+                        }
+                    },
+                    "type": "chart",
+                    "options": {}
+                }
+            },
+            "age_vs_stamina_2": {
+                "broadcastFacet": true,
+                "datasets": [
+                    {
+                        "id": "0Fb5I000000PF1DSAW",
+                        "label": "FIFA 19 Players",
+                        "name": "FIFA_19_Players",
+                        "url": "/services/data/v48.0/wave/datasets/0Fb5I000000PF1DSAW"
+                    }
+                ],
+                "isGlobal": false,
+                "label": "age vs stamina",
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ],
+                        [
+                            "avg",
+                            "Age"
+                        ],
+                        [
+                            "avg",
+                            "Stamina"
+                        ]
+                    ],
+                    "groups": [
+                        "Position"
+                    ]
+                },
+                "receiveFacetSource": {
+                    "mode": "all",
+                    "steps": []
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "parameters": {
+                        "autoFitMode": "keepLabels",
+                        "showValues": true,
+                        "legend": {
+                            "descOrder": false,
+                            "showHeader": true,
+                            "show": true,
+                            "customSize": "auto",
+                            "position": "bottom-center",
+                            "inside": false
+                        },
+                        "showMeasureTitle": true,
+                        "tooltip": {
+                            "showBinLabel": true,
+                            "measures": [
+                                "count",
+                                "avg_Age",
+                                "avg_Stamina"
+                            ],
+                            "showNullValues": true,
+                            "showPercentage": true,
+                            "showDimensions": true,
+                            "showMeasures": true,
+                            "customizeTooltip": true,
+                            "dimensions": [
+                                "Position"
+                            ]
+                        },
+                        "visualizationType": "pyramid",
+                        "title": {
+                            "fontSize": 14,
+                            "subtitleFontSize": 11,
+                            "label": "",
+                            "align": "center",
+                            "subtitleLabel": ""
+                        },
+                        "trellis": {
+                            "flipLabels": false,
+                            "showGridLines": true,
+                            "size": [
+                                100,
+                                100
+                            ],
+                            "enable": false,
+                            "type": "x",
+                            "chartsPerLine": 4
+                        },
+                        "showMeasure": true,
+                        "columnMap": {
+                            "measureAxis2": [
+                                "avg_Stamina"
+                            ],
+                            "measureAxis1": [
+                                "avg_Age"
+                            ],
+                            "trellis": [],
+                            "dimensionAxis": [
+                                "Position"
+                            ],
+                            "plots": [
+                                "count"
+                            ]
+                        },
+                        "showActionMenu": true,
+                        "measureAxis2": {
+                            "sqrtScale": false,
+                            "title": "",
+                            "customDomain": {
+                                "showDomain": false
+                            }
+                        },
+                        "measureAxis1": {
+                            "sqrtScale": false,
+                            "title": "",
+                            "customDomain": {
+                                "showDomain": false
+                            }
+                        },
+                        "theme": "wave",
+                        "rightColor": "#e16032",
+                        "leftColor": "#52b7d8",
+                        "dimensionAxis": {
+                            "customSize": "auto",
+                            "showAxis": false
+                        },
+                        "applyConditionalFormatting": true
+                    },
+                    "type": "chart",
+                    "options": {}
+                }
+            },
+            "static_3": {
+                "broadcastFacet": true,
+                "columns": {
+                    "Text4": {
+                        "type": "string"
+                    },
+                    "Text3": {
+                        "type": "string"
+                    },
+                    "HighColor": {
+                        "type": "string"
+                    },
+                    "LowColor": {
+                        "type": "string"
+                    },
+                    "Display": {
+                        "type": "string"
+                    }
+                },
+                "label": "",
+                "selectMode": "singlerequired",
+                "start": {
+                    "Display": [
+                        "Average Potential"
+                    ]
+                },
+                "type": "staticflex",
+                "values": [
+                    {
+                        "Display": "Player Potential",
+                        "Text3": "avg_Potential",
+                        "Text4": "Potential",
+                        "HighColor": "#1ba86b",
+                        "LowColor": "#b7edd6"
+                    },
+                    {
+                        "Display": "Player Overall",
+                        "Text3": "avg_Overall",
+                        "Text4": "Overall",
+                        "HighColor": "#f05b16",
+                        "LowColor": "#f0d1c2"
+                    },
+                    {
+                        "Display": "Player Agility",
+                        "Text3": "avg_Agility",
+                        "Text4": "Agility",
+                        "HighColor": "#d61c1c",
+                        "LowColor": "#e89797"
+                    },
+                    {
+                        "Display": "Player  Acceleration",
+                        "Text3": "avg_Acceleration",
+                        "Text4": "Acceleration",
+                        "HighColor": "#00a8ba",
+                        "LowColor": "#97e0e8"
+                    }
+                ],
+                "numbers": [],
+                "strings": [],
+                "groups": []
+            },
+            "static_2": {
+                "broadcastFacet": true,
+                "columns": {
+                    "value": {
+                        "type": "string"
+                    },
+                    "Display": {
+                        "type": "string"
+                    }
+                },
+                "label": "",
+                "selectMode": "singlerequired",
+                "start": {
+                    "Display": [
+                        "World"
+                    ]
+                },
+                "type": "staticflex",
+                "values": [
+                    {
+                        "Display": "World",
+                        "value": "World Countries"
+                    },
+                    {
+                        "Display": "Americas",
+                        "value": "Americas"
+                    },
+                    {
+                        "Display": "Europe",
+                        "value": "Europe"
+                    },
+                    {
+                        "Display": "Asia",
+                        "value": "Asia"
+                    },
+                    {
+                        "Display": "Africa",
+                        "value": "Africa"
+                    },
+                    {
+                        "Display": "Australasia",
+                        "value": "Australasia"
+                    }
+                ],
+                "numbers": [],
+                "strings": [],
+                "groups": []
+            },
+            "Player_by_body_type_1": {
+                "broadcastFacet": true,
+                "datasets": [
+                    {
+                        "id": "0Fb5I000000PF1DSAW",
+                        "label": "FIFA 19 Players",
+                        "name": "FIFA_19_Players",
+                        "url": "/services/data/v48.0/wave/datasets/0Fb5I000000PF1DSAW"
+                    }
+                ],
+                "isGlobal": false,
+                "label": "Player by body type",
+                "query": {
+                    "measures": [
+                        [
+                            "avg",
+                            "Aggression"
+                        ]
+                    ],
+                    "groups": [
+                        "Body_Type"
+                    ]
+                },
+                "receiveFacetSource": {
+                    "mode": "all",
+                    "steps": []
+                },
+                "selectMode": "single",
+                "start": [],
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "parameters": {
+                        "autoFitMode": "keepLabels",
+                        "centerText": "",
+                        "legend": {
+                            "descOrder": false,
+                            "showHeader": true,
+                            "show": true,
+                            "customSize": "auto",
+                            "position": "left-top",
+                            "inside": false
+                        },
+                        "showMeasureTitle": false,
+                        "tooltip": {
+                            "showBinLabel": true,
+                            "measures": "",
+                            "showNullValues": true,
+                            "showPercentage": true,
+                            "showDimensions": true,
+                            "showMeasures": true,
+                            "customizeTooltip": false,
+                            "dimensions": ""
+                        },
+                        "visualizationType": "pie",
+                        "title": {
+                            "fontSize": 14,
+                            "subtitleFontSize": 11,
+                            "label": "",
+                            "align": "center",
+                            "subtitleLabel": ""
+                        },
+                        "trellis": {
+                            "flipLabels": false,
+                            "showGridLines": true,
+                            "size": [
+                                100,
+                                100
+                            ],
+                            "enable": false,
+                            "type": "x",
+                            "chartsPerLine": 4
+                        },
+                        "inner": 70,
+                        "columnMap": {
+                            "trellis": [],
+                            "dimension": [
+                                "Body_Type"
+                            ],
+                            "plots": [
+                                "avg_Aggression"
+                            ]
+                        },
+                        "showActionMenu": true,
+                        "centerValueType": "number",
+                        "valueType": "compactNumber",
+                        "theme": "wave",
+                        "applyConditionalFormatting": true
+                    },
+                    "type": "chart",
+                    "options": {}
+                }
+            },
+            "player_positions_1": {
+                "broadcastFacet": true,
+                "datasets": [
+                    {
+                        "id": "0Fb5I000000PF1DSAW",
+                        "label": "FIFA 19 Players",
+                        "name": "FIFA_19_Players",
+                        "url": "/services/data/v48.0/wave/datasets/0Fb5I000000PF1DSAW"
+                    }
+                ],
+                "isGlobal": false,
+                "label": "player positions",
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "Position"
+                    ]
+                },
+                "receiveFacetSource": {
+                    "mode": "all",
+                    "steps": []
+                },
+                "selectMode": "single",
+                "start": [],
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "parameters": {
+                        "autoFitMode": "keepLabels",
+                        "legend": {
+                            "descOrder": false,
+                            "showHeader": true,
+                            "show": true,
+                            "customSize": "auto",
+                            "position": "right-top",
+                            "inside": false
+                        },
+                        "showMeasureTitle": true,
+                        "tooltip": {
+                            "showBinLabel": true,
+                            "measures": "",
+                            "showNullValues": true,
+                            "showPercentage": true,
+                            "showDimensions": true,
+                            "showMeasures": true,
+                            "customizeTooltip": false,
+                            "dimensions": ""
+                        },
+                        "visualizationType": "origami",
+                        "title": {
+                            "fontSize": 14,
+                            "subtitleFontSize": 11,
+                            "label": "",
+                            "align": "center",
+                            "subtitleLabel": ""
+                        },
+                        "trellis": {
+                            "flipLabels": false,
+                            "showGridLines": true,
+                            "size": [
+                                100,
+                                100
+                            ],
+                            "enable": false,
+                            "type": "x",
+                            "chartsPerLine": 4
+                        },
+                        "columnMap": {
+                            "trellis": [],
+                            "dimension": [
+                                "Position"
+                            ],
+                            "plots": [
+                                "count"
+                            ]
+                        },
+                        "showActionMenu": true,
+                        "valueType": "compactNumber",
+                        "showTotal": true,
+                        "theme": "wave",
+                        "applyConditionalFormatting": true
+                    },
+                    "type": "chart",
+                    "options": {}
+                }
+            },
+            "Club_1": {
+                "broadcastFacet": true,
+                "datasets": [
+                    {
+                        "id": "0Fb5I000000PF1DSAW",
+                        "label": "FIFA 19 Players",
+                        "name": "FIFA_19_Players",
+                        "url": "/services/data/v48.0/wave/datasets/0Fb5I000000PF1DSAW"
+                    }
+                ],
+                "isGlobal": false,
+                "query": {
+                    "measures": [
+                        [
+                            "count",
+                            "*"
+                        ]
+                    ],
+                    "groups": [
+                        "Club"
+                    ]
+                },
+                "receiveFacetSource": {
+                    "mode": "all",
+                    "steps": []
+                },
+                "selectMode": "multi",
+                "start": [],
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "options": {}
+                }
+            },
+            "avg_vision_1": {
+                "broadcastFacet": true,
+                "datasets": [
+                    {
+                        "id": "0Fb5I000000PF1DSAW",
+                        "label": "FIFA 19 Players",
+                        "name": "FIFA_19_Players",
+                        "url": "/services/data/v48.0/wave/datasets/0Fb5I000000PF1DSAW"
+                    }
+                ],
+                "isGlobal": false,
+                "label": "avg vision",
+                "query": {
+                    "measures": [
+                        [
+                            "avg",
+                            "Vision"
+                        ]
+                    ]
+                },
+                "receiveFacetSource": {
+                    "mode": "all",
+                    "steps": []
+                },
+                "selectMode": "single",
+                "type": "aggregateflex",
+                "useGlobal": true,
+                "visualizationParameters": {
+                    "parameters": {
+                        "autoFitMode": "keepLabels",
+                        "max": 80,
+                        "showPercentage": true,
+                        "visualizationType": "gauge",
+                        "medium": 33,
+                        "title": {
+                            "fontSize": 14,
+                            "subtitleFontSize": 11,
+                            "label": "",
+                            "align": "center",
+                            "subtitleLabel": ""
+                        },
+                        "trellis": {
+                            "flipLabels": false,
+                            "showGridLines": true,
+                            "size": [
+                                100,
+                                100
+                            ],
+                            "enable": false,
+                            "type": "x",
+                            "chartsPerLine": 4
+                        },
+                        "bands": {
+                            "high": {
+                                "color": "#008000",
+                                "label": "High"
+                            },
+                            "low": {
+                                "color": "#B22222",
+                                "label": "Low"
+                            },
+                            "medium": {
+                                "color": "#ffa500",
+                                "label": "Medium"
+                            }
+                        },
+                        "showRange": true,
+                        "showLabel": true,
+                        "columnMap": {
+                            "trellis": [],
+                            "plots": [
+                                "avg_Vision"
+                            ]
+                        },
+                        "showValue": true,
+                        "high": 66,
+                        "showActionMenu": true,
+                        "min": 30,
+                        "angle": 270,
+                        "theme": "wave",
+                        "applyConditionalFormatting": true
+                    },
+                    "type": "chart",
+                    "options": {}
+                }
             }
         },
         "widgetStyle": {
@@ -2525,13 +2619,139 @@
             "borderWidth": 1
         },
         "widgets": {
-            "container_1": {
+            "listselector_3": {
                 "parameters": {
-                    "alignmentX": "left",
-                    "alignmentY": "top",
-                    "fit": "original"
+                    "compact": false,
+                    "displayMode": "filter",
+                    "exploreLink": false,
+                    "filterStyle": {
+                        "titleColor": "#54698D",
+                        "valueColor": "#16325C"
+                    },
+                    "instant": true,
+                    "measureField": "count",
+                    "showActionMenu": true,
+                    "step": "Position_1",
+                    "title": "Position"
                 },
-                "type": "container"
+                "type": "listselector"
+            },
+            "listselector_2": {
+                "parameters": {
+                    "compact": false,
+                    "displayMode": "filter",
+                    "exploreLink": false,
+                    "filterStyle": {
+                        "titleColor": "#54698D",
+                        "valueColor": "#16325C"
+                    },
+                    "instant": true,
+                    "measureField": "count",
+                    "showActionMenu": true,
+                    "step": "Club_1",
+                    "title": "Club"
+                },
+                "type": "listselector"
+            },
+            "text_1": {
+                "parameters": {
+                    "fontSize": 24,
+                    "showActionMenu": true,
+                    "text": "Total Players",
+                    "textAlignment": "left",
+                    "textColor": "#091A3E"
+                },
+                "type": "text"
+            },
+            "link_3": {
+                "parameters": {
+                    "destinationType": "lens",
+                    "fontSize": 16,
+                    "includeState": false,
+                    "text": "Video Link",
+                    "textAlignment": "center",
+                    "textColor": "#0070D2"
+                },
+                "type": "link"
+            },
+            "link_1": {
+                "parameters": {
+                    "destinationLink": {
+                        "url": "https://www.kaggle.com/karangadiya/fifa19"
+                    },
+                    "destinationType": "url",
+                    "fontSize": 16,
+                    "includeState": false,
+                    "text": "Dataset Link",
+                    "textAlignment": "center",
+                    "textColor": "#0070D2"
+                },
+                "type": "link"
+            },
+            "link_2": {
+                "parameters": {
+                    "destinationLink": {
+                        "url": "https://github.com/esmonddsouza/FIFA-19-Visualization"
+                    },
+                    "destinationType": "url",
+                    "fontSize": 16,
+                    "includeState": false,
+                    "text": "Github Link",
+                    "textAlignment": "center",
+                    "textColor": "#0070D2"
+                },
+                "type": "link"
+            },
+            "table_1": {
+                "parameters": {
+                    "borderColor": "#98c6f5",
+                    "borderWidth": 1,
+                    "cell": {
+                        "backgroundColor": "#ffffff",
+                        "fontColor": "#16325c",
+                        "fontSize": 12
+                    },
+                    "columnProperties": {
+                        "Overall": {
+                            "parameters": {
+                                "alignment": "right"
+                            },
+                            "type": "text"
+                        },
+                        "Release_Clause": {
+                            "parameters": {
+                                "alignment": "right"
+                            },
+                            "type": "text"
+                        },
+                        "Name": {
+                            "parameters": {
+                                "alignment": "left"
+                            },
+                            "type": "text"
+                        }
+                    },
+                    "columns": [],
+                    "customBulkActions": [],
+                    "exploreLink": true,
+                    "header": {
+                        "backgroundColor": "#1589ee",
+                        "fontColor": "#ffffff",
+                        "fontSize": 12
+                    },
+                    "innerMajorBorderColor": "#3290ed",
+                    "innerMinorBorderColor": "#98c6f5",
+                    "mode": "fittocontainer",
+                    "numberOfLines": 1,
+                    "showActionMenu": false,
+                    "showRowIndexColumn": false,
+                    "step": "top_players_1",
+                    "totals": true,
+                    "verticalPadding": 8,
+                    "evenRowColor": null,
+                    "oddRowColor": null
+                },
+                "type": "table"
             },
             "container_2": {
                 "parameters": {
@@ -2540,6 +2760,22 @@
                     "fit": "original"
                 },
                 "type": "container"
+            },
+            "number_1": {
+                "parameters": {
+                    "compact": false,
+                    "exploreLink": true,
+                    "measureField": "count",
+                    "numberColor": "#091A3E",
+                    "numberSize": 32,
+                    "showActionMenu": true,
+                    "step": "all_1",
+                    "textAlignment": "left",
+                    "title": "",
+                    "titleColor": "#091A3E",
+                    "titleSize": 16
+                },
+                "type": "number"
             },
             "chart_9": {
                 "parameters": {
@@ -2606,6 +2842,28 @@
                 },
                 "type": "chart"
             },
+            "pillbox_1": {
+                "parameters": {
+                    "compact": false,
+                    "displayTemplate": "[Preferred_Foot] Legged",
+                    "exploreLink": false,
+                    "fontSize": 14,
+                    "measureField": "count",
+                    "selectedTab": {
+                        "backgroundColor": "#0070D2",
+                        "borderColor": "#C6D3E1",
+                        "borderEdges": [
+                            "all"
+                        ],
+                        "borderWidth": 1,
+                        "textColor": "#FFFFFF"
+                    },
+                    "showActionMenu": true,
+                    "step": "Preferred_Foot_1",
+                    "textColor": "#0070D2"
+                },
+                "type": "pillbox"
+            },
             "rangeselector_1": {
                 "parameters": {
                     "displayMode": "filter",
@@ -2628,15 +2886,25 @@
                 },
                 "type": "container"
             },
-            "text_3": {
+            "pillbox_3": {
                 "parameters": {
-                    "fontSize": 24,
+                    "compact": false,
+                    "exploreLink": false,
+                    "fontSize": 14,
+                    "selectedTab": {
+                        "backgroundColor": "#0070D2",
+                        "borderColor": "#C6D3E1",
+                        "borderEdges": [
+                            "all"
+                        ],
+                        "borderWidth": 1,
+                        "textColor": "#FFFFFF"
+                    },
                     "showActionMenu": true,
-                    "text": "Left Legged",
-                    "textAlignment": "left",
-                    "textColor": "#091A3E"
+                    "step": "static_2",
+                    "textColor": "#0070D2"
                 },
-                "type": "text"
+                "type": "pillbox"
             },
             "chart_6": {
                 "parameters": {
@@ -2692,21 +2960,11 @@
                     "showActionMenu": true,
                     "valueType": "compactNumber",
                     "showTotal": true,
-                    "theme": "wave",
+                    "theme": "bluegrassLight",
                     "step": "player_positions_1",
                     "applyConditionalFormatting": true
                 },
                 "type": "chart"
-            },
-            "text_2": {
-                "parameters": {
-                    "fontSize": 24,
-                    "showActionMenu": true,
-                    "text": "Right Legged",
-                    "textAlignment": "left",
-                    "textColor": "#091A3E"
-                },
-                "type": "text"
             },
             "chart_5": {
                 "parameters": {
@@ -2717,7 +2975,7 @@
                         "showHeader": true,
                         "show": true,
                         "customSize": "auto",
-                        "position": "left-top",
+                        "position": "bottom-center",
                         "inside": false
                     },
                     "showMeasureTitle": false,
@@ -2764,31 +3022,190 @@
                     "showActionMenu": true,
                     "centerValueType": "number",
                     "valueType": "compactNumber",
-                    "theme": "wave",
+                    "theme": "watermelonLight",
                     "step": "Player_by_body_type_1",
                     "applyConditionalFormatting": true
                 },
                 "type": "chart"
             },
+            "text_2": {
+                "parameters": {
+                    "fontSize": 24,
+                    "showActionMenu": true,
+                    "text": "Data Visualization Assignment 3",
+                    "textAlignment": "left",
+                    "textColor": "#091A3E"
+                },
+                "type": "text"
+            },
+            "pillbox_5": {
+                "parameters": {
+                    "compact": false,
+                    "exploreLink": false,
+                    "fontSize": 14,
+                    "selectedTab": {
+                        "backgroundColor": "#0070D2",
+                        "borderColor": "#C6D3E1",
+                        "borderEdges": [
+                            "all"
+                        ],
+                        "borderWidth": 1,
+                        "textColor": "#FFFFFF"
+                    },
+                    "showActionMenu": true,
+                    "step": "static_3",
+                    "textColor": "#0070D2"
+                },
+                "type": "pillbox"
+            },
+            "listselector_1": {
+                "parameters": {
+                    "compact": false,
+                    "displayMode": "filter",
+                    "displayTemplate": "[Nationality]",
+                    "exploreLink": false,
+                    "filterStyle": {
+                        "titleColor": "#54698D",
+                        "valueColor": "#16325C"
+                    },
+                    "instant": true,
+                    "measureField": "count",
+                    "showActionMenu": true,
+                    "step": "Nationality_1",
+                    "title": "Nationality"
+                },
+                "type": "listselector"
+            },
             "chart_7": {
                 "parameters": {
                     "autoFitMode": "keepLabels",
-                    "max": 6.3,
-                    "showPercentage": true,
+                    "showValues": true,
                     "legend": {
+                        "descOrder": false,
                         "showHeader": true,
-                        "show": false,
-                        "position": "right-top",
+                        "show": true,
+                        "customSize": "auto",
+                        "position": "bottom-center",
                         "inside": false
                     },
-                    "visualizationType": "gauge",
+                    "totalSumMode": "none",
+                    "axisMode": "multi",
+                    "tooltip": {
+                        "showBinLabel": true,
+                        "measures": "",
+                        "showNullValues": true,
+                        "showPercentage": true,
+                        "showDimensions": true,
+                        "showMeasures": true,
+                        "customizeTooltip": false,
+                        "dimensions": ""
+                    },
+                    "visualizationType": "stackhbar",
                     "exploreLink": true,
-                    "medium": 33,
                     "title": {
                         "fontSize": 12,
                         "subtitleFontSize": 11,
-                        "label": "Average Height",
+                        "label": "Maximum player height",
                         "align": "center",
+                        "subtitleLabel": ""
+                    },
+                    "trellis": {
+                        "flipLabels": false,
+                        "showGridLines": true,
+                        "size": [
+                            50,
+                            50
+                        ],
+                        "enable": false,
+                        "type": "x",
+                        "chartsPerLine": 4
+                    },
+                    "columnMap": {
+                        "split": [
+                            "Skill_Moves"
+                        ],
+                        "trellis": [],
+                        "dimensionAxis": [],
+                        "plots": [
+                            "max_Height"
+                        ]
+                    },
+                    "showActionMenu": true,
+                    "measureAxis2": {
+                        "sqrtScale": false,
+                        "showTitle": true,
+                        "showAxis": true,
+                        "title": "",
+                        "customDomain": {
+                            "showDomain": false
+                        }
+                    },
+                    "normalize": false,
+                    "measureAxis1": {
+                        "sqrtScale": true,
+                        "showTitle": false,
+                        "showAxis": false,
+                        "title": "",
+                        "customDomain": {
+                            "showDomain": false
+                        }
+                    },
+                    "theme": "bluegrassLight",
+                    "step": "Avg_height_1",
+                    "applyConditionalFormatting": true,
+                    "dimensionAxis": {
+                        "showTitle": true,
+                        "customSize": "auto",
+                        "showAxis": true,
+                        "title": "",
+                        "icons": {
+                            "useIcons": false,
+                            "iconProps": {
+                                "fit": "cover",
+                                "column": "",
+                                "type": "round"
+                            }
+                        }
+                    }
+                },
+                "type": "chart"
+            },
+            "chart_13": {
+                "parameters": {
+                    "autoFitMode": "keepLabels",
+                    "showValues": true,
+                    "legend": {
+                        "descOrder": false,
+                        "showHeader": false,
+                        "show": true,
+                        "customSize": "auto",
+                        "position": "bottom-center",
+                        "inside": false
+                    },
+                    "showMeasureTitle": true,
+                    "tooltip": {
+                        "showBinLabel": true,
+                        "measures": [
+                            "count",
+                            "avg_Age",
+                            "avg_Stamina"
+                        ],
+                        "showNullValues": true,
+                        "showPercentage": true,
+                        "showDimensions": true,
+                        "showMeasures": true,
+                        "customizeTooltip": true,
+                        "dimensions": [
+                            "Club"
+                        ]
+                    },
+                    "visualizationType": "pyramid",
+                    "exploreLink": true,
+                    "title": {
+                        "fontSize": 14,
+                        "subtitleFontSize": 11,
+                        "label": "",
+                        "align": "left",
                         "subtitleLabel": ""
                     },
                     "trellis": {
@@ -2802,35 +3219,45 @@
                         "type": "x",
                         "chartsPerLine": 4
                     },
-                    "bands": {
-                        "high": {
-                            "color": "#008000",
-                            "label": "High"
-                        },
-                        "low": {
-                            "color": "#B22222",
-                            "label": "Low"
-                        },
-                        "medium": {
-                            "color": "#ffa500",
-                            "label": "Medium"
-                        }
-                    },
-                    "showRange": true,
-                    "showLabel": true,
-                    "showValue": true,
-                    "high": 66,
+                    "showMeasure": true,
                     "columnMap": {
+                        "measureAxis2": [
+                            "avg_Stamina"
+                        ],
+                        "measureAxis1": [
+                            "avg_Age"
+                        ],
                         "trellis": [],
+                        "dimensionAxis": [
+                            "Club"
+                        ],
                         "plots": [
-                            "avg_Height"
+                            "count"
                         ]
                     },
                     "showActionMenu": true,
-                    "min": 5.3,
-                    "angle": 270,
+                    "measureAxis2": {
+                        "sqrtScale": false,
+                        "title": "",
+                        "customDomain": {
+                            "showDomain": false
+                        }
+                    },
+                    "measureAxis1": {
+                        "sqrtScale": false,
+                        "title": "",
+                        "customDomain": {
+                            "showDomain": false
+                        }
+                    },
                     "theme": "wave",
-                    "step": "Avg_height_1",
+                    "rightColor": "#e16032",
+                    "step": "age_vs_stamina_1",
+                    "leftColor": "#52b7d8",
+                    "dimensionAxis": {
+                        "customSize": "auto",
+                        "showAxis": false
+                    },
                     "applyConditionalFormatting": true
                 },
                 "type": "chart"
@@ -2859,7 +3286,7 @@
                         }
                     },
                     "legend": {
-                        "descOrder": false,
+                        "descOrder": true,
                         "showHeader": true,
                         "show": true,
                         "customSize": "auto",
@@ -2867,7 +3294,7 @@
                         "inside": false
                     },
                     "autoZoom": false,
-                    "highColor": "#1674D9",
+                    "highColor": "{{cell(static_3.selection, 0, \"HighColor\").asString()}}",
                     "tooltip": {
                         "showBinLabel": true,
                         "measures": "",
@@ -2879,7 +3306,7 @@
                         "dimensions": ""
                     },
                     "projectionType": "Mercator",
-                    "lowColor": "#C5DBF7",
+                    "lowColor": "{{cell(static_3.selection, 0, \"LowColor\").asString()}}",
                     "visualizationType": "choropleth",
                     "exploreLink": true,
                     "title": {
@@ -2901,17 +3328,8 @@
                         "type": "x",
                         "chartsPerLine": 4
                     },
-                    "columnMap": {
-                        "color": [
-                            "avg_Potential"
-                        ],
-                        "trellis": [],
-                        "plots": [
-                            "Nationality"
-                        ]
-                    },
                     "showActionMenu": true,
-                    "theme": "wave",
+                    "theme": "colorblind",
                     "step": "player_by_country_an_1",
                     "map": "{{cell(static_2.selection, 0, \"value\").asObject()}}",
                     "applyConditionalFormatting": true
@@ -2965,7 +3383,7 @@
                     },
                     "showActionMenu": true,
                     "min": 0,
-                    "numberOfIcons": 5,
+                    "numberOfIcons": 10,
                     "valueType": "compactNumber",
                     "valuesOnLeft": false,
                     "theme": "wave",
@@ -3007,7 +3425,7 @@
                     "title": {
                         "fontSize": 14,
                         "subtitleFontSize": 11,
-                        "label": "Average Value",
+                        "label": "Average Wages & Value",
                         "align": "center",
                         "subtitleLabel": ""
                     },
@@ -3032,7 +3450,8 @@
                             "Nationality"
                         ],
                         "plots": [
-                            "avg_Value"
+                            "avg_Value",
+                            "avg_Wage"
                         ]
                     },
                     "showActionMenu": true,
@@ -3047,16 +3466,16 @@
                         }
                     },
                     "measureAxis1": {
-                        "sqrtScale": false,
+                        "sqrtScale": true,
                         "showTitle": true,
-                        "showAxis": true,
+                        "showAxis": false,
                         "title": "",
                         "customDomain": {
                             "showDomain": false
                         }
                     },
                     "valueType": "none",
-                    "theme": "wave",
+                    "theme": "watermelonLight",
                     "step": "player_by_country_an_2",
                     "dimensionAxis": {
                         "showTitle": true,
@@ -3081,555 +3500,6 @@
                     }
                 },
                 "type": "chart"
-            },
-            "listselector_2": {
-                "parameters": {
-                    "compact": false,
-                    "displayMode": "filter",
-                    "exploreLink": false,
-                    "filterStyle": {
-                        "titleColor": "#54698D",
-                        "valueColor": "#16325C"
-                    },
-                    "instant": true,
-                    "measureField": "count",
-                    "showActionMenu": true,
-                    "step": "Club_1",
-                    "title": "Club"
-                },
-                "type": "listselector"
-            },
-            "text_1": {
-                "parameters": {
-                    "fontSize": 24,
-                    "showActionMenu": true,
-                    "text": "Total Players",
-                    "textAlignment": "left",
-                    "textColor": "#091A3E"
-                },
-                "type": "text"
-            },
-            "number_3": {
-                "parameters": {
-                    "compact": false,
-                    "exploreLink": true,
-                    "measureField": "count",
-                    "numberColor": "#091A3E",
-                    "numberSize": 32,
-                    "showActionMenu": true,
-                    "step": "all_3",
-                    "textAlignment": "left",
-                    "title": "",
-                    "titleColor": "#091A3E",
-                    "titleSize": 16
-                },
-                "type": "number"
-            },
-            "number_2": {
-                "parameters": {
-                    "compact": false,
-                    "exploreLink": true,
-                    "measureField": "count",
-                    "numberColor": "#091A3E",
-                    "numberSize": 32,
-                    "showActionMenu": true,
-                    "step": "all_2",
-                    "textAlignment": "left",
-                    "title": "",
-                    "titleColor": "#091A3E",
-                    "titleSize": 16
-                },
-                "type": "number"
-            },
-            "number_1": {
-                "parameters": {
-                    "compact": false,
-                    "exploreLink": true,
-                    "measureField": "count",
-                    "numberColor": "#091A3E",
-                    "numberSize": 32,
-                    "showActionMenu": true,
-                    "step": "all_1",
-                    "textAlignment": "left",
-                    "title": "",
-                    "titleColor": "#091A3E",
-                    "titleSize": 16
-                },
-                "type": "number"
-            },
-            "pillbox_2": {
-                "parameters": {
-                    "compact": false,
-                    "exploreLink": false,
-                    "fontSize": 14,
-                    "measureField": "Number2",
-                    "selectedTab": {
-                        "backgroundColor": "#0070D2",
-                        "borderColor": "#C6D3E1",
-                        "borderEdges": [
-                            "all"
-                        ],
-                        "borderWidth": 1,
-                        "textColor": "#FFFFFF"
-                    },
-                    "showActionMenu": true,
-                    "step": "static_1",
-                    "textColor": "#0070D2"
-                },
-                "type": "pillbox"
-            },
-            "pillbox_1": {
-                "parameters": {
-                    "compact": false,
-                    "displayTemplate": "[Preferred_Foot] Legged",
-                    "exploreLink": false,
-                    "fontSize": 14,
-                    "measureField": "none",
-                    "selectedTab": {
-                        "backgroundColor": "#0070D2",
-                        "borderColor": "#C6D3E1",
-                        "borderEdges": [
-                            "all"
-                        ],
-                        "borderWidth": 1,
-                        "textColor": "#FFFFFF"
-                    },
-                    "showActionMenu": true,
-                    "step": "Preferred_Foot_1",
-                    "textColor": "#0070D2"
-                },
-                "type": "pillbox"
-            },
-            "pillbox_3": {
-                "parameters": {
-                    "compact": false,
-                    "exploreLink": false,
-                    "fontSize": 14,
-                    "selectedTab": {
-                        "backgroundColor": "#0070D2",
-                        "borderColor": "#C6D3E1",
-                        "borderEdges": [
-                            "all"
-                        ],
-                        "borderWidth": 1,
-                        "textColor": "#FFFFFF"
-                    },
-                    "showActionMenu": true,
-                    "step": "static_2",
-                    "textColor": "#0070D2"
-                },
-                "type": "pillbox"
-            },
-            "listselector_1": {
-                "parameters": {
-                    "compact": false,
-                    "displayMode": "filter",
-                    "displayTemplate": "[Nationality]",
-                    "exploreLink": false,
-                    "filterStyle": {
-                        "titleColor": "#54698D",
-                        "valueColor": "#16325C"
-                    },
-                    "instant": true,
-                    "measureField": "count",
-                    "showActionMenu": true,
-                    "step": "Nationality_1",
-                    "title": "Nationality"
-                },
-                "type": "listselector"
-            },
-            "chart_15": {
-                "parameters": {
-                    "autoFitMode": "keepLabels",
-                    "legend": {
-                        "descOrder": false,
-                        "showHeader": true,
-                        "show": false,
-                        "customSize": "auto",
-                        "position": "bottom-center",
-                        "inside": false
-                    },
-                    "tooltip": {
-                        "showBinLabel": true,
-                        "measures": "",
-                        "showNullValues": true,
-                        "showPercentage": true,
-                        "showDimensions": true,
-                        "showMeasures": true,
-                        "customizeTooltip": false,
-                        "dimensions": ""
-                    },
-                    "visualizationType": "vdot",
-                    "exploreLink": true,
-                    "title": {
-                        "fontSize": 14,
-                        "subtitleFontSize": 11,
-                        "label": "",
-                        "align": "center",
-                        "subtitleLabel": ""
-                    },
-                    "trellis": {
-                        "flipLabels": false,
-                        "showGridLines": true,
-                        "size": [
-                            100,
-                            100
-                        ],
-                        "enable": false,
-                        "type": "x",
-                        "chartsPerLine": 4
-                    },
-                    "columnMap": {
-                        "r": [
-                            "avg_Agility"
-                        ],
-                        "split": [
-                            "International_Reputation"
-                        ],
-                        "trellis": [],
-                        "dimensionAxis": [
-                            "Club"
-                        ],
-                        "plots": [
-                            "avg_Weight"
-                        ]
-                    },
-                    "showActionMenu": true,
-                    "showZero": true,
-                    "measureAxis1": {
-                        "sqrtScale": false,
-                        "showTitle": true,
-                        "showAxis": true,
-                        "title": "",
-                        "customDomain": {
-                            "showDomain": false
-                        }
-                    },
-                    "theme": "wave",
-                    "step": "player_by_weight_1",
-                    "dimensionAxis": {
-                        "showTitle": true,
-                        "customSize": "auto",
-                        "showAxis": true,
-                        "title": "",
-                        "icons": {
-                            "useIcons": false,
-                            "iconProps": {
-                                "fit": "cover",
-                                "column": "",
-                                "type": "round"
-                            }
-                        }
-                    },
-                    "applyConditionalFormatting": true
-                },
-                "type": "chart"
-            },
-            "chart_13": {
-                "parameters": {
-                    "autoFitMode": "keepLabels",
-                    "showValues": true,
-                    "legend": {
-                        "descOrder": false,
-                        "showHeader": false,
-                        "show": true,
-                        "customSize": "auto",
-                        "position": "bottom-center",
-                        "inside": false
-                    },
-                    "showMeasureTitle": true,
-                    "tooltip": {
-                        "showBinLabel": true,
-                        "measures": [
-                            "count",
-                            "avg_Age",
-                            "avg_Stamina"
-                        ],
-                        "showNullValues": true,
-                        "showPercentage": true,
-                        "showDimensions": true,
-                        "showMeasures": true,
-                        "customizeTooltip": true,
-                        "dimensions": [
-                            "Position"
-                        ]
-                    },
-                    "visualizationType": "pyramid",
-                    "exploreLink": true,
-                    "title": {
-                        "fontSize": 14,
-                        "subtitleFontSize": 11,
-                        "label": "",
-                        "align": "left",
-                        "subtitleLabel": ""
-                    },
-                    "trellis": {
-                        "flipLabels": false,
-                        "showGridLines": true,
-                        "size": [
-                            100,
-                            100
-                        ],
-                        "enable": false,
-                        "type": "x",
-                        "chartsPerLine": 4
-                    },
-                    "showMeasure": true,
-                    "columnMap": {
-                        "measureAxis2": [
-                            "avg_Stamina"
-                        ],
-                        "measureAxis1": [
-                            "avg_Age"
-                        ],
-                        "trellis": [],
-                        "dimensionAxis": [
-                            "Position"
-                        ],
-                        "plots": [
-                            "count"
-                        ]
-                    },
-                    "showActionMenu": true,
-                    "measureAxis2": {
-                        "sqrtScale": false,
-                        "title": "",
-                        "customDomain": {
-                            "showDomain": false
-                        }
-                    },
-                    "measureAxis1": {
-                        "sqrtScale": false,
-                        "title": "",
-                        "customDomain": {
-                            "showDomain": false
-                        }
-                    },
-                    "theme": "wave",
-                    "rightColor": "#e16032",
-                    "step": "age_vs_stamina_1",
-                    "leftColor": "#52b7d8",
-                    "dimensionAxis": {
-                        "customSize": "auto",
-                        "showAxis": false
-                    },
-                    "applyConditionalFormatting": true
-                },
-                "type": "chart"
-            },
-            "chart_11": {
-                "parameters": {
-                    "autoFitMode": "keepLabels",
-                    "max": 25,
-                    "showPercentage": true,
-                    "legend": {
-                        "showHeader": true,
-                        "show": false,
-                        "position": "right-top",
-                        "inside": false
-                    },
-                    "visualizationType": "gauge",
-                    "exploreLink": true,
-                    "medium": 33,
-                    "title": {
-                        "fontSize": 14,
-                        "subtitleFontSize": 11,
-                        "label": "Average Wage",
-                        "align": "center",
-                        "subtitleLabel": ""
-                    },
-                    "trellis": {
-                        "flipLabels": false,
-                        "showGridLines": true,
-                        "size": [
-                            100,
-                            100
-                        ],
-                        "enable": false,
-                        "type": "x",
-                        "chartsPerLine": 4
-                    },
-                    "bands": {
-                        "high": {
-                            "color": "#008000",
-                            "label": "High"
-                        },
-                        "low": {
-                            "color": "#B22222",
-                            "label": "Low"
-                        },
-                        "medium": {
-                            "color": "#ffa500",
-                            "label": "Medium"
-                        }
-                    },
-                    "showRange": true,
-                    "showLabel": true,
-                    "showValue": true,
-                    "high": 66,
-                    "columnMap": {
-                        "trellis": [],
-                        "plots": [
-                            "avg_Wage"
-                        ]
-                    },
-                    "showActionMenu": true,
-                    "min": 0,
-                    "angle": 270,
-                    "theme": "wave",
-                    "step": "avg_wage_1",
-                    "applyConditionalFormatting": true
-                },
-                "type": "chart"
-            },
-            "chart_10": {
-                "parameters": {
-                    "autoFitMode": "keepLabels",
-                    "showValues": true,
-                    "legend": {
-                        "descOrder": false,
-                        "showHeader": true,
-                        "show": true,
-                        "customSize": "auto",
-                        "position": "top-center",
-                        "inside": false
-                    },
-                    "tooltip": {
-                        "showBinLabel": true,
-                        "measures": "",
-                        "showNullValues": true,
-                        "showPercentage": true,
-                        "showDimensions": true,
-                        "showMeasures": true,
-                        "customizeTooltip": false,
-                        "dimensions": ""
-                    },
-                    "visualizationType": "treemap",
-                    "exploreLink": true,
-                    "title": {
-                        "fontSize": 14,
-                        "subtitleFontSize": 11,
-                        "label": "",
-                        "align": "center",
-                        "subtitleLabel": ""
-                    },
-                    "trellis": {
-                        "flipLabels": false,
-                        "showGridLines": true,
-                        "size": [
-                            100,
-                            100
-                        ],
-                        "enable": false,
-                        "type": "x",
-                        "chartsPerLine": 4
-                    },
-                    "columnMap": {
-                        "trellis": [],
-                        "dimension": [
-                            "Skill_Moves"
-                        ],
-                        "plots": [
-                            "count"
-                        ]
-                    },
-                    "showActionMenu": true,
-                    "theme": "wave",
-                    "step": "player_by_skills_1",
-                    "applyConditionalFormatting": true
-                },
-                "type": "chart"
-            },
-            "chart_16": {
-                "type": "chart",
-                "parameters": {
-                    "visualizationType": "sankey",
-                    "title": {
-                        "label": "",
-                        "fontSize": 14,
-                        "subtitleLabel": "",
-                        "subtitleFontSize": 11,
-                        "align": "center"
-                    },
-                    "theme": "wave",
-                    "tooltip": {
-                        "customizeTooltip": false,
-                        "showDimensions": true,
-                        "dimensions": "",
-                        "showMeasures": true,
-                        "measures": "",
-                        "showPercentage": true,
-                        "showNullValues": true,
-                        "showBinLabel": true
-                    },
-                    "showActionMenu": true,
-                    "exploreLink": true,
-                    "showDimensionTitle": true,
-                    "showTotal": false,
-                    "showAbsoluteValues": true,
-                    "columnMap": {
-                        "plots": [
-                            "count"
-                        ],
-                        "dimensionAxis": [
-                            "International_Reputation",
-                            "Position"
-                        ]
-                    },
-                    "step": "player_reputation_vs_1"
-                }
-            },
-            "table_1": {
-                "type": "table",
-                "parameters": {
-                    "customBulkActions": [],
-                    "showActionMenu": false,
-                    "mode": "variable",
-                    "borderWidth": 1,
-                    "borderColor": "#98c6f5",
-                    "evenRowColor": null,
-                    "oddRowColor": null,
-                    "innerMinorBorderColor": "#98c6f5",
-                    "innerMajorBorderColor": "#3290ed",
-                    "verticalPadding": 8,
-                    "numberOfLines": 1,
-                    "header": {
-                        "fontColor": "#ffffff",
-                        "fontSize": 12,
-                        "backgroundColor": "#1589ee"
-                    },
-                    "cell": {
-                        "fontColor": "#16325c",
-                        "fontSize": 12,
-                        "backgroundColor": "#ffffff"
-                    },
-                    "columnProperties": {
-                        "Overall": {
-                            "parameters": {
-                                "alignment": "right"
-                            },
-                            "type": "text"
-                        },
-                        "Release_Clause": {
-                            "parameters": {
-                                "alignment": "right"
-                            },
-                            "type": "text"
-                        },
-                        "Name": {
-                            "parameters": {
-                                "alignment": "left"
-                            },
-                            "type": "text"
-                        }
-                    },
-                    "minColumnWidth": 40,
-                    "maxColumnWidth": 300,
-                    "showRowIndexColumn": true,
-                    "totals": true,
-                    "step": "top_players_1",
-                    "exploreLink": true
-                }
             }
         }
     },
